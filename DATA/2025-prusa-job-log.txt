@@ -1,0 +1,704 @@
+{"date":"2025-01-20T14:20:41.834Z","id":"CZPX4921X017XC67390","name":"gd depuy v4.0_0.4n_0.2mm_PLA_MINI_6h29m.bgcode","size":5742567,"mTimestamp":1733741301}
+{"date":"2025-01-20T14:20:41.836Z","id":"CZPX1622X017XC78384","name":"20.01 BT DB 7 on a plate 777.bgcode","size":707080,"mTimestamp":1737371307}
+{"date":"2025-01-20T15:03:52.556Z","id":"CZPX1522X017XC78087","name":"20.01 BT DB 7 on a plate 777.bgcode","size":707080,"mTimestamp":1737371307}
+{"date":"2025-01-20T15:04:14.651Z","id":"CZPX1522X017XC78087","name":"20.01 BT DB 7 on a plate 777.bgcode","size":707080,"mTimestamp":1737371307}
+{"date":"2025-01-20T15:16:15.063Z","id":"CZPX1622X017XC78384","name":"20.01 BT DB 7 on a plate 777.bgcode","size":707080,"mTimestamp":1737371307}
+{"date":"2025-01-20T15:23:38.561Z","id":"CZPX1622X017XC78384","name":"20.01 BT DB 7 on a plate 777.bgcode","size":707080,"mTimestamp":1737371307}
+{"date":"2025-01-20T15:52:46.302Z","id":"CZPX1522X017XC78087","name":"7 BT DB 20.01 777.bgcode","size":824718,"mTimestamp":1737387364}
+{"date":"2025-01-21T10:51:03.082Z","id":"CZPX1622X017XC78384","name":"20.01 BT DB 7 on a plate 777.bgcode","size":707080,"mTimestamp":1737371307}
+{"date":"2025-01-21T10:51:15.113Z","id":"CZPX1522X017XC78087","name":"7 BT DB 20.01 777.bgcode","size":824718,"mTimestamp":1737387364}
+{"date":"2025-01-21T12:30:27.269Z","id":"CZPX4921X017XC67390","name":"DePuy Synthesv4.0_0.4n_0.2mm_PLA_MINI_5h30m.bgcode","size":3624062,"mTimestamp":1733481060}
+{"date":"2025-01-21T14:33:42.091Z","id":"CZPX1622X017XC78384","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471023}
+{"date":"2025-01-21T14:33:50.123Z","id":"CZPX1522X017XC78087","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471069}
+{"date":"2025-01-21T15:01:29.535Z","id":"CZPX1622X017XC78491","name":"TSP_2_print.gcode","size":162670,"mTimestamp":1736855953}
+{"date":"2025-01-21T15:19:37.092Z","id":"CZPX1622X017XC78491","name":"Medi_2_print_4.gcode","size":107295,"mTimestamp":1737118565}
+{"date":"2025-01-21T15:48:02.682Z","id":"CZPX1622X017XC78491","name":"Go_2_print_1.gcode","size":501047,"mTimestamp":1736889917}
+{"date":"2025-01-21T16:01:07.265Z","id":"CZPX1622X017XC78384","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471023}
+{"date":"2025-01-21T16:01:37.365Z","id":"CZPX1522X017XC78087","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471069}
+{"date":"2025-01-21T16:08:00.643Z","id":"CZPX1622X017XC78491","name":"TSP_2_print.gcode","size":162670,"mTimestamp":1736855953}
+{"date":"2025-01-21T16:09:14.887Z","id":"CZPX1622X017XC78456","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471023}
+{"date":"2025-01-21T16:13:43.770Z","id":"CZPX1622X017XC78491","name":"Water_2_print_3.gcode","size":55333,"mTimestamp":1737047124}
+{"date":"2025-01-21T16:15:28.124Z","id":"CZPX1622X017XC78456","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471023}
+{"date":"2025-01-22T08:26:46.926Z","id":"CZPX4921X017XC67390","name":"DePuy Synthesv4.0_0.4n_0.2mm_PLA_MINI_5h30m.bgcode","size":3624062,"mTimestamp":1733481060}
+{"date":"2025-01-22T09:48:11.576Z","id":"CZPX1522X017XC78087","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471069}
+{"date":"2025-01-22T09:48:41.663Z","id":"CZPX1622X017XC78456","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471023}
+{"date":"2025-01-22T11:54:30.891Z","id":"CZPX1622X017XC78456","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471023}
+{"date":"2025-01-22T11:54:30.894Z","id":"CZPX1522X017XC78087","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471069}
+{"date":"2025-01-22T13:46:15.247Z","id":"CZPX1522X017XC78087","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471069}
+{"date":"2025-01-22T13:46:49.350Z","id":"CZPX1622X017XC78456","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471023}
+{"date":"2025-01-22T13:48:31.667Z","id":"CZPX1622X017XC78456","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471023}
+{"date":"2025-01-23T09:50:53.076Z","id":"CZPX1522X017XC78087","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471069}
+{"date":"2025-01-23T09:51:09.124Z","id":"CZPX1622X017XC78456","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471023}
+{"date":"2025-01-23T11:59:10.877Z","id":"CZPX1522X017XC78087","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471069}
+{"date":"2025-01-23T11:59:26.925Z","id":"CZPX1622X017XC78456","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471023}
+{"date":"2025-01-23T12:39:43.025Z","id":"CZPX4921X017XC67390","name":"fumer_0.4n_0.2mm_PLA_MINIIS_2h21m.bgcode","size":3660307,"mTimestamp":1737637021}
+{"date":"2025-01-23T15:07:08.694Z","id":"CZPX4921X017XC67390","name":"60ball_0.4n_0.2mm_PLA_MINIIS_2h17m.bgcode","size":2450376,"mTimestamp":1737645856}
+{"date":"2025-01-23T16:05:30.448Z","id":"CZPX1622X017XC78384","name":"DIN-Rail-Mount_0.4n_0.2mm_PLA_MINI_9h28m.bgcode","size":10506376,"mTimestamp":1737648901}
+{"date":"2025-01-23T16:06:25.639Z","id":"CZPX4521X017XC64043","name":"Mikrotik-Mount_0.4n_0.2mm_PLA_MINI_14h7m.bgcode","size":4930111,"mTimestamp":1737649020}
+{"date":"2025-01-23T16:11:47.720Z","id":"CZPX1622X017XC78491","name":"Mikrotik-Mount_0.4n_0.2mm_PLA_MINI_14h7m.bgcode","size":4930111,"mTimestamp":1737649032}
+{"date":"2025-01-23T16:12:11.793Z","id":"CZPX1522X017XC78087","name":"DIN-Rail-Mount_0.4n_0.2mm_PLA_MINI_9h28m.bgcode","size":10506376,"mTimestamp":1737648853}
+{"date":"2025-01-23T16:17:36.891Z","id":"CZPX4521X017XC64043","name":"Mikrotik-Mount_0.4n_0.2mm_PLA_MINI_14h7m.bgcode","size":4930111,"mTimestamp":1737649020}
+{"date":"2025-01-24T12:36:04.078Z","id":"CZPX4921X017XC67390","name":"25ball_0.4n_0.2mm_PLA_MINIIS_27m.bgcode","size":447464,"mTimestamp":1737723209}
+{"date":"2025-01-24T13:59:33.993Z","id":"CZPX1622X017XC78456","name":"MAXXXXXXXXXXXXXXhelmet clasp v5_0.4n_0.2mm_PLA_MINIIS_45m.bgcode","size":787741,"mTimestamp":1737728178}
+{"date":"2025-01-24T14:00:24.168Z","id":"CZPX1622X017XC78491","name":"MAXXXXXXXXXhelmet clasp v5_0.4n_0.2mm_PLA_MINIIS_45m.bgcode","size":787741,"mTimestamp":1737728229}
+{"date":"2025-01-24T14:40:10.216Z","id":"CZPX4921X017XC67390","name":"mggggg catch male part v2_0.4n_0.2mm_PLA_MINIIS_12m.bgcode","size":316696,"mTimestamp":1737730636}
+{"date":"2025-01-24T14:57:17.669Z","id":"CZPX4921X017XC67390","name":"mggggg catch male part v2_0.4n_0.2mm_PLA_MINIIS_12m.bgcode","size":316696,"mTimestamp":1737730636}
+{"date":"2025-01-24T15:26:11.583Z","id":"CZPX1622X017XC78491","name":"mgggggggggggggggghelmet clasp v7 deeeeeeeeper_0.4n_0.2mm_PLA_MINIIS_48m.bgcode","size":847412,"mTimestamp":1737733386}
+{"date":"2025-01-24T15:34:33.251Z","id":"CZPX1622X017XC78456","name":"catch male part v4 deeeeeeeeper_0.4n_0.2mm_PLA_MINIIS_13m.bgcode","size":341972,"mTimestamp":1737733930}
+{"date":"2025-01-24T16:27:33.381Z","id":"CZPX1622X017XC78491","name":"mgggggggggggggggghelmet clasp v7 deeeeeeeeper_0.4n_0.2mm_PLA_MINIIS_48m.bgcode","size":847412,"mTimestamp":1737733386}
+{"date":"2025-01-24T16:27:51.418Z","id":"CZPX1622X017XC78456","name":"catch male part v4 deeeeeeeeper_0.4n_0.2mm_PLA_MINIIS_13m.bgcode","size":341972,"mTimestamp":1737733930}
+{"date":"2025-01-24T16:28:23.513Z","id":"CZPX1622X017XC78456","name":"catch male part v4 deeeeeeeeper_0.4n_0.2mm_PLA_MINIIS_13m.bgcode","size":341972,"mTimestamp":1737733930}
+{"date":"2025-01-27T10:22:29.003Z","id":"CZPX1522X017XC78087","name":"vv21125_fanduct.bgcode","size":1557717,"mTimestamp":1737974402}
+{"date":"2025-01-27T15:08:44.035Z","id":"CZPX1622X017XC78456","name":"7 BT DB 20.01 777.bgcode","size":824718,"mTimestamp":1737387364}
+{"date":"2025-01-27T15:30:22.124Z","id":"CZPX1522X017XC78087","name":"drop tower 2 mini.bgcode","size":309288,"mTimestamp":1737992766}
+{"date":"2025-01-28T08:31:57.547Z","id":"CZPX1522X017XC78087","name":"drop tower 2 mini.bgcode","size":309288,"mTimestamp":1737992766}
+{"date":"2025-01-28T08:32:55.840Z","id":"CZPX1622X017XC78456","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471023}
+{"date":"2025-01-28T09:58:54.070Z","id":"CZPX1522X017XC78087","name":"drop tower 2 mini.bgcode","size":309288,"mTimestamp":1737992766}
+{"date":"2025-01-28T10:05:57.392Z","id":"CZPX1622X017XC78456","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471023}
+{"date":"2025-01-28T13:10:10.267Z","id":"CZPX1522X017XC78087","name":"drop tower 2 mini.bgcode","size":309288,"mTimestamp":1737992766}
+{"date":"2025-01-28T13:10:24.289Z","id":"CZPX1622X017XC78456","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471023}
+{"date":"2025-01-29T13:59:31.181Z","id":"CZPX4521X017XC64043","name":"D638_TYPE_I setup_0.4n_0.15mm_PLA_MINI_9h46m.bgcode","size":2528394,"mTimestamp":1738160182}
+{"date":"2025-01-29T14:21:45.478Z","id":"CZPX1522X017XC78087","name":"Servo02 v1_0.4n_0.2mm_PLA_MINIIS_35m.bgcode","size":801577,"mTimestamp":1738161562}
+{"date":"2025-01-29T14:27:14.518Z","id":"CZPX1522X017XC78087","name":"Servo02 v1_0.4n_0.2mm_PLA_MINIIS_35m.bgcode","size":801577,"mTimestamp":1738161562}
+{"date":"2025-01-29T14:34:11.825Z","id":"CZPX1522X017XC78087","name":"Servo02 v1_0.4n_0.2mm_PLA_MINIIS_35m.bgcode","size":801577,"mTimestamp":1738161562}
+{"date":"2025-01-29T14:36:46.306Z","id":"CZPX1522X017XC78087","name":"Servo02 v1_0.4n_0.2mm_PLA_MINIIS_35m.bgcode","size":801577,"mTimestamp":1738161562}
+{"date":"2025-01-29T14:39:14.758Z","id":"CZPX1522X017XC78087","name":"Servo02 v1_0.4n_0.2mm_PLA_MINIIS_35m.bgcode","size":801577,"mTimestamp":1738161562}
+{"date":"2025-01-29T15:08:57.338Z","id":"CZPX1522X017XC78087","name":"Servo02 v1_0.4n_0.2mm_PLA_MINIIS_35m.bgcode","size":801577,"mTimestamp":1738161562}
+{"date":"2025-01-29T15:08:57.339Z","id":"CZPX4521X017XC64043","name":"D638_TYPE_I setup_0.4n_0.15mm_PLA_MINI_9h46m.bgcode","size":2528394,"mTimestamp":1738160182}
+{"date":"2025-01-29T15:43:00.028Z","id":"CZPX1522X017XC78087","name":"Servo02.bgcode","size":779819,"mTimestamp":1738165387}
+{"date":"2025-01-30T09:45:03.921Z","id":"CZPX4521X017XC64043","name":"D638_TYPE_I setup 2_0.4n_0.15mm_PLA_MINI_5h55m.bgcode","size":2108027,"mTimestamp":1738230204}
+{"date":"2025-01-30T11:55:03.100Z","id":"CZPX1522X017XC78087","name":"trigger_0.4n_0.2mm_PLA_MINIIS_5m.bgcode","size":49688,"mTimestamp":1738238105}
+{"date":"2025-01-30T12:33:20.571Z","id":"CZPX1522X017XC78087","name":"trigger2_0.4n_0.2mm_PLA_MINIIS_5m.bgcode","size":54366,"mTimestamp":1738240395}
+{"date":"2025-01-30T13:33:06.132Z","id":"CZPX4521X017XC64043","name":"D638_TYPE_I setup 2_0.4n_0.15mm_PLA_MINI_5h55m.bgcode","size":2108027,"mTimestamp":1738230204}
+{"date":"2025-01-30T14:18:14.917Z","id":"CZPX1522X017XC78087","name":"F1_3D_Print_0.4n_0.2mm_PLA_MINI_35m.bgcode","size":674810,"mTimestamp":1738246088}
+{"date":"2025-01-30T14:27:58.765Z","id":"CZPX4721X017XC66125","name":"peg_1_0.4n_0.2mm_PLA_MINI_9h54m.bgcode","size":12263191,"mTimestamp":1738246458}
+{"date":"2025-01-30T14:59:50.631Z","id":"CZPX1522X017XC78087","name":"Servo_0.3_0.4n_0.2mm_PLA_MINIIS_22m.bgcode","size":400034,"mTimestamp":1738249202}
+{"date":"2025-01-30T15:26:22.818Z","id":"CZPX1522X017XC78087","name":"Servo_0.3_0.4n_0.2mm_PLA_MINIIS_22m.bgcode","size":400034,"mTimestamp":1738249202}
+{"date":"2025-01-30T15:58:15.005Z","id":"CZPX4921X017XC67390","name":"CCR10_Test Cube v1.gcode","size":32955,"mTimestamp":1738252513}
+{"date":"2025-01-30T16:02:47.859Z","id":"CZPX4921X017XC67390","name":"CCR10_Test Cube v1.gcode","size":32955,"mTimestamp":1738252513}
+{"date":"2025-01-30T16:08:12.885Z","id":"CZPX1622X017XC78384","name":"CCR10_Test Cube v1.gcode","size":32955,"mTimestamp":1738252513}
+{"date":"2025-01-30T16:32:45.723Z","id":"CZPX4521X017XC64043","name":"D638_TYPE_I setup 2_0.4n_0.15mm_PLA_MINI_5h55m.bgcode","size":2108027,"mTimestamp":1738230204}
+{"date":"2025-01-30T16:33:13.797Z","id":"CZPX4521X017XC64043","name":"Attempt 3.bgcode","size":2140184,"mTimestamp":1738254722}
+{"date":"2025-01-31T09:53:39.328Z","id":"CZPX1522X017XC78087","name":"Mega_Lucario_based_0.4n_0.2mm_PLA_MINI_3h45m.bgcode","size":4539130,"mTimestamp":1738317060}
+{"date":"2025-01-31T10:01:18.849Z","id":"CZPX4721X017XC66125","name":"Charizard_0.4n_0.2mm_PLA_MINI_3h24m.bgcode","size":4731233,"mTimestamp":1738317136}
+{"date":"2025-01-31T13:35:55.358Z","id":"CZPX4921X017XC67390","name":"helmet claspmaxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx v8 shorter stable stolts and smaller mechanism housing_0.4n_0.2mm_PLA_MINIIS_59m.bgcode","size":1158030,"mTimestamp":1738330398}
+{"date":"2025-01-31T13:36:16.426Z","id":"CZPX1622X017XC78491","name":"helmet clasp v8 shorter stable stolts and smaller mechanism housing_0.4n_0.2mm_PLA_MINIIS_1h6m.bgcode","size":1151099,"mTimestamp":1738330517}
+{"date":"2025-01-31T13:36:58.562Z","id":"CZPX1622X017XC78384","name":"helmet clasp v8 shorter stable stolts and smaller mechanism housing_0.4n_0.1mm_PLA_MINIIS_1h44m.bgcode","size":2173539,"mTimestamp":1738330464}
+{"date":"2025-01-31T14:16:22.152Z","id":"CZPX1522X017XC78087","name":"Servo_0.3_2.0_0.4n_0.2mm_PLA_MINIIS_22m.bgcode","size":379738,"mTimestamp":1738332974}
+{"date":"2025-01-31T15:12:18.968Z","id":"CZPX1522X017XC78087","name":"CCR10_Test Cube v1.gcode","size":79483,"mTimestamp":1738336095}
+{"date":"2025-02-03T11:39:31.853Z","id":"CZPX4921X017XC67390","name":"Fumer with bar (smoothed)_0.4n_0.2mm_PLA_MINIIS_2h41m.bgcode","size":2745032,"mTimestamp":1738582749}
+{"date":"2025-02-03T12:02:38.279Z","id":"CZPX1522X017XC78087","name":"Servo0.3_3.0_0.4n_0.2mm_PLA_MINIIS_22m.bgcode","size":383594,"mTimestamp":1738584144}
+{"date":"2025-02-03T12:28:41.403Z","id":"CZPX4521X017XC64043","name":"serpantsup.gcode","size":11319881,"mTimestamp":1738585336}
+{"date":"2025-02-03T13:12:21.886Z","id":"CZPX1522X017XC78087","name":"CCR10_Test Cube v3.gcode","size":91892,"mTimestamp":1738587603}
+{"date":"2025-02-03T15:02:15.248Z","id":"CZPX1522X017XC78087","name":"CCR10_Test Cube (0.5-1 first layer).gcode","size":91854,"mTimestamp":1738594752}
+{"date":"2025-02-03T15:48:20.278Z","id":"CZPX1522X017XC78087","name":"trigger2.0_0.4n_0.2mm_PLA_MINIIS_3m.bgcode","size":51085,"mTimestamp":1738597695}
+{"date":"2025-02-03T15:59:40.453Z","id":"CZPX1522X017XC78087","name":"Servo0.3_3.0_0.4n_0.2mm_PLA_MINIIS_23m.bgcode","size":406855,"mTimestamp":1738598364}
+{"date":"2025-02-03T16:27:27.871Z","id":"CZPX1522X017XC78087","name":"Servo0.3_3.0_0.4n_0.2mm_PLA_MINIIS_23m.bgcode","size":406855,"mTimestamp":1738598364}
+{"date":"2025-02-04T10:38:22.478Z","id":"CZPX4921X017XC67390","name":"3D,GD model xie 4.9_2_0.4n_0.2mm_PLA_MINIIS_4h5m.bgcode","size":4520670,"mTimestamp":1738665489}
+{"date":"2025-02-04T12:42:16.403Z","id":"CZPX1622X017XC78384","name":"bam.gcode","size":37,"mTimestamp":4039372769}
+{"date":"2025-02-04T12:43:28.649Z","id":"CZPX1622X017XC78384","name":"Mini box 28x28mm v1_0.4n_0.2mm_PLA_MINIIS_25m.bgcode","size":242372,"mTimestamp":1738672922}
+{"date":"2025-02-04T12:54:32.747Z","id":"CZPX1522X017XC78087","name":"Tensile specimen_0.4n_0.2mm_PLA_MINIIS_2h23m.gcode","size":1025997,"mTimestamp":1738673601}
+{"date":"2025-02-05T09:38:00.024Z","id":"CZPX1522X017XC78087","name":"changable gear v0_0.4n_0.2mm_PLA_MINIIS_12m.bgcode","size":441568,"mTimestamp":1738748287}
+{"date":"2025-02-05T10:32:44.801Z","id":"CZPX1522X017XC78087","name":"triggermax v1_0.4n_0.2mm_PLA_MINIIS_11m.bgcode","size":359766,"mTimestamp":1738751580}
+{"date":"2025-02-05T10:34:48.311Z","id":"CZPX4721X017XC66125","name":"fr20130_ViseBLK01_0.4n_0.2mm_PETG_MINIIS_2h45m.bgcode","size":974765,"mTimestamp":1738751307}
+{"date":"2025-02-05T10:52:58.675Z","id":"CZPX1522X017XC78087","name":"triggermax v1_0.4n_0.2mm_PLA_MINIIS_11m.bgcode","size":359766,"mTimestamp":1738751580}
+{"date":"2025-02-05T12:21:47.966Z","id":"CZPX1522X017XC78087","name":"triggermax v1_0.4n_0.2mm_PLA_MINIIS_9m.bgcode","size":330335,"mTimestamp":1738758088}
+{"date":"2025-02-05T12:25:48.765Z","id":"CZPX4521X017XC64043","name":"CCR10_Test Cube v4.gcode","size":89994,"mTimestamp":1738758301}
+{"date":"2025-02-05T13:14:50.315Z","id":"CZPX4921X017XC67390","name":"left_and_right_brackets.bgcode","size":1476907,"mTimestamp":1738761301}
+{"date":"2025-02-05T13:20:56.402Z","id":"CZPX1522X017XC78087","name":"centre_and_triple_bracket.bgcode","size":1972174,"mTimestamp":1738761497}
+{"date":"2025-02-05T13:44:54.146Z","id":"CZPX4521X017XC64043","name":"Servo0.3_3.0_0.4n_0.2mm_PLA_MINIIS_23m.bgcode","size":406855,"mTimestamp":1738598364}
+{"date":"2025-02-05T13:54:40.129Z","id":"CZPX1622X017XC78384","name":"CCR10_Test Cube BL.gcode","size":2042084,"mTimestamp":1738763605}
+{"date":"2025-02-05T14:23:27.731Z","id":"CZPX4521X017XC64043","name":"Servo0.3_3.0_0.4n_0.2mm_PLA_MINIIS_23m.bgcode","size":406855,"mTimestamp":1738598364}
+{"date":"2025-02-05T14:34:47.900Z","id":"CZPX4521X017XC64043","name":"Servo0.3_3.0_0.4n_0.2mm_PLA_MINIIS_23m.bgcode","size":406855,"mTimestamp":1738598364}
+{"date":"2025-02-05T14:34:54.029Z","id":"CZPX4521X017XC64043","name":"Servo0.3_3.0_0.4n_0.2mm_PLA_MINIIS_23m.bgcode","size":406855,"mTimestamp":1738598364}
+{"date":"2025-02-05T14:34:57.931Z","id":"CZPX4521X017XC64043","name":"triggermax v1_0.4n_0.2mm_PLA_MINIIS_9m.bgcode","size":330335,"mTimestamp":1738758088}
+{"date":"2025-02-05T14:39:54.895Z","id":"CZPX1622X017XC78384","name":"CCR10_Test Cube BL.gcode","size":2042084,"mTimestamp":1738763605}
+{"date":"2025-02-05T15:11:31.039Z","id":"CZPX4521X017XC64043","name":"Servo0.3_3.0_0.4n_0.2mm_PLA_MINIIS_23m.bgcode","size":406855,"mTimestamp":1738598364}
+{"date":"2025-02-05T15:13:47.506Z","id":"CZPX1622X017XC78384","name":"CCR10_Test Cube BL_EM1.0.gcode","size":2042170,"mTimestamp":1738768343}
+{"date":"2025-02-05T15:20:38.834Z","id":"CZPX1622X017XC78384","name":"CCR10_Test Cube BL_EM1.0.gcode","size":2042170,"mTimestamp":1738768343}
+{"date":"2025-02-05T15:20:50.872Z","id":"CZPX1622X017XC78384","name":"CCR10_Test Cube BL_EM1.1.gcode","size":2042170,"mTimestamp":1738768343}
+{"date":"2025-02-05T15:26:30.008Z","id":"CZPX1622X017XC78384","name":"CCR10_Test Cube BL_EM1.1.gcode","size":2042170,"mTimestamp":1738768343}
+{"date":"2025-02-05T15:27:22.220Z","id":"CZPX1622X017XC78384","name":"CCR10_Test Cube BL_EM1.2.gcode","size":2042170,"mTimestamp":1738768344}
+{"date":"2025-02-05T15:33:05.308Z","id":"CZPX1622X017XC78384","name":"CCR10_Test Cube BL_EM1.2.gcode","size":2042170,"mTimestamp":1738768344}
+{"date":"2025-02-05T15:33:57.491Z","id":"CZPX1622X017XC78384","name":"CCR10_Test Cube BL_EM1.3.gcode","size":2042170,"mTimestamp":1738768344}
+{"date":"2025-02-05T15:39:16.544Z","id":"CZPX1622X017XC78384","name":"CCR10_Test Cube BL_EM1.3.gcode","size":2042170,"mTimestamp":1738768344}
+{"date":"2025-02-06T12:02:41.128Z","id":"CZPX1622X017XC78384","name":"CCR10_Test Cube BL_9 Walls.gcode","size":578292,"mTimestamp":1738843279}
+{"date":"2025-02-06T12:11:24.824Z","id":"CZPX1622X017XC78384","name":"CCR10_Test Cube BL_9 Walls.gcode","size":578292,"mTimestamp":1738843279}
+{"date":"2025-02-06T12:11:50.896Z","id":"CZPX1622X017XC78384","name":"CCR10_Test Cube BL_7 Walls.gcode","size":471879,"mTimestamp":1738843279}
+{"date":"2025-02-06T12:19:12.326Z","id":"CZPX1622X017XC78384","name":"CCR10_Test Cube BL_7 Walls.gcode","size":471879,"mTimestamp":1738843279}
+{"date":"2025-02-06T12:19:36.651Z","id":"CZPX1622X017XC78384","name":"CCR10_Test Cube BL_5 Walls.gcode","size":367207,"mTimestamp":1738843279}
+{"date":"2025-02-06T12:26:11.722Z","id":"CZPX1622X017XC78384","name":"CCR10_Test Cube BL_5 Walls.gcode","size":367207,"mTimestamp":1738843279}
+{"date":"2025-02-06T12:26:27.762Z","id":"CZPX1622X017XC78384","name":"CCR10_Test Cube BL_3 Walls.gcode","size":256532,"mTimestamp":1738843279}
+{"date":"2025-02-06T12:32:59.034Z","id":"CZPX1622X017XC78384","name":"CCR10_Test Cube BL_3 Walls.gcode","size":256532,"mTimestamp":1738843279}
+{"date":"2025-02-06T13:14:31.005Z","id":"CZPX4521X017XC64043","name":"Box Printing_Test_M1_Box.bgcode","size":1300184,"mTimestamp":1738847654}
+{"date":"2025-02-06T13:21:04.292Z","id":"CZPX1622X017XC78384","name":"Lid_test_M1.bgcode","size":1129842,"mTimestamp":1738847941}
+{"date":"2025-02-06T13:22:46.621Z","id":"CZPX4921X017XC67390","name":"left_and_right_brackets.bgcode","size":1476907,"mTimestamp":1738761301}
+{"date":"2025-02-06T13:28:27.755Z","id":"CZPX4521X017XC64043","name":"Box Printing_Test_M1_Box.bgcode","size":1300184,"mTimestamp":1738847654}
+{"date":"2025-02-06T13:28:57.935Z","id":"CZPX1522X017XC78087","name":"Box_HigherQuality_m2.0.bgcode","size":2652668,"mTimestamp":1738848485}
+{"date":"2025-02-06T13:39:52.034Z","id":"CZPX1622X017XC78491","name":"bu21980 servo trigger.bgcode","size":463285,"mTimestamp":1738849165}
+{"date":"2025-02-06T14:50:21.722Z","id":"CZPX4921X017XC67390","name":"CCR10_Test Cube BL_EM1.5.gcode","size":1808636,"mTimestamp":1738853344}
+{"date":"2025-02-06T15:08:47.249Z","id":"CZPX1522X017XC78087","name":"Box_HigherQuality_m2.0.bgcode","size":2652668,"mTimestamp":1738848485}
+{"date":"2025-02-06T16:03:45.872Z","id":"CZPX4921X017XC67390","name":"CCR10_Test Cube.gcode","size":1041143,"mTimestamp":1738854985}
+{"date":"2025-02-06T16:19:02.840Z","id":"CZPX4921X017XC67390","name":"CCR10_Test Cube.gcode","size":1041143,"mTimestamp":1738854985}
+{"date":"2025-02-06T16:19:32.937Z","id":"CZPX4921X017XC67390","name":"Tensile specimen_BL.gcode","size":1497355,"mTimestamp":1738854967}
+{"date":"2025-02-07T09:18:48.619Z","id":"CZPX4921X017XC67390","name":"Box_High_quality_0.1_AllTopIron.bgcode","size":2652615,"mTimestamp":1738919884}
+{"date":"2025-02-07T09:19:28.731Z","id":"CZPX4521X017XC64043","name":"Box_High_Quality_0.1_AllTopIron.bgcode","size":2652615,"mTimestamp":1738919940}
+{"date":"2025-02-07T09:23:37.561Z","id":"CZPX1522X017XC78087","name":"Lid_High_Quality_0.1mm_IronAllTop.bgcode","size":2583560,"mTimestamp":1738920141}
+{"date":"2025-02-07T14:02:13.784Z","id":"CZPX1622X017XC78491","name":"trigger22222 v1_0.4n_0.2mm_PLA_MINIIS_4m.bgcode","size":74812,"mTimestamp":1738936933}
+{"date":"2025-02-07T14:21:49.512Z","id":"CZPX1622X017XC78491","name":"triggermax22222 v1_0.4n_0.2mm_PLA_MINIIS_5m.bgcode","size":63466,"mTimestamp":1738938123}
+{"date":"2025-02-07T15:06:28.236Z","id":"CZPX1622X017XC78384","name":"Lid_High_Quality_0.1mm_IronAllTop.bgcode","size":2583560,"mTimestamp":1738920141}
+{"date":"2025-02-07T15:19:08.671Z","id":"CZPX1622X017XC78491","name":"trigger22222 v1_0.4n_0.2mm_PLA_MINIIS_5m.bgcode","size":78641,"mTimestamp":1738941550}
+{"date":"2025-02-07T16:08:18.202Z","id":"CZPX1622X017XC78491","name":"trigger22222 v1_0.4n_0.2mm_PLA_MINIIS_5m.bgcode","size":78641,"mTimestamp":1738941550}
+{"date":"2025-02-10T09:49:08.719Z","id":"CZPX1622X017XC78491","name":"trigger22222 v1_0.4n_0.2mm_PLA_MINIIS_5m.bgcode","size":78641,"mTimestamp":1738941550}
+{"date":"2025-02-10T10:00:34.976Z","id":"CZPX4921X017XC67390","name":"Lid_High_Quality_Iron.bgcode","size":1711721,"mTimestamp":1739181609}
+{"date":"2025-02-10T10:00:44.988Z","id":"CZPX4521X017XC64043","name":"Lid_HIGH_QUALITY.bgcode","size":1711721,"mTimestamp":1739181619}
+{"date":"2025-02-10T11:07:05.888Z","id":"CZPX1622X017XC78491","name":"bu21980 trigger.bgcode","size":172203,"mTimestamp":1739185627}
+{"date":"2025-02-10T12:30:33.115Z","id":"CZPX1622X017XC78384","name":"fixation v1_0.4n_0.2mm_PLA_MINIIS_2h28m.bgcode","size":1416172,"mTimestamp":1739190564}
+{"date":"2025-02-10T12:33:30.589Z","id":"CZPX4721X017XC66125","name":"Reservoir Test Piece - speed_0.4n_0.15mm_PETG_MINI_16m.bgcode","size":106389,"mTimestamp":1739190748}
+{"date":"2025-02-10T13:07:49.233Z","id":"CZPX4721X017XC66125","name":"Reservoir Test Piece - temperature_0.4n_0.15mm_PETG_MINI_16m.bgcode","size":106481,"mTimestamp":1739192847}
+{"date":"2025-02-10T15:46:20.059Z","id":"CZPX4921X017XC67390","name":"Simple stand _2_PrusaSlicer_0.4n_0.2mm_PLA_MINI_15h35m.bgcode","size":7575616,"mTimestamp":1739202142}
+{"date":"2025-02-10T15:47:06.180Z","id":"CZPX4521X017XC64043","name":"Simple stand _2_PrusaSlicer_0.4n_0.2mm_PLA_MINI_15h35m.bgcode","size":7575616,"mTimestamp":1739202312}
+{"date":"2025-02-10T16:26:49.859Z","id":"CZPX1622X017XC78384","name":"3DBenchy_ BL.gcode","size":6691147,"mTimestamp":1739204723}
+{"date":"2025-02-11T09:47:44.735Z","id":"CZPX1622X017XC78384","name":"3D,GD model xie 4.9_1_0.4n_0.2mm_PLA_MINIIS_34m.bgcode","size":1048599,"mTimestamp":1739267241}
+{"date":"2025-02-11T10:15:32.042Z","id":"CZPX1522X017XC78087","name":"Yv22199_Stand.gcode","size":4138674,"mTimestamp":1739268901}
+{"date":"2025-02-11T10:20:14.983Z","id":"CZPX4521X017XC64043","name":"Yv22199_Stand.gcode","size":4138674,"mTimestamp":1739268901}
+{"date":"2025-02-11T11:37:54.062Z","id":"CZPX1622X017XC78491","name":"bu21980 gear and servobracket.bgcode","size":1353937,"mTimestamp":1739273882}
+{"date":"2025-02-11T12:30:58.243Z","id":"CZPX4921X017XC67390","name":"Simple stand_0.05toll.bgcode","size":7498661,"mTimestamp":1739277016}
+{"date":"2025-02-11T12:32:54.661Z","id":"CZPX4521X017XC64043","name":"simple stand 0.05toll.bgcode","size":3809641,"mTimestamp":1739277180}
+{"date":"2025-02-11T12:45:09.267Z","id":"CZPX1622X017XC78491","name":"bu21980 gear and servobracket.bgcode","size":1353937,"mTimestamp":1739273882}
+{"date":"2025-02-11T14:22:38.091Z","id":"CZPX4721X017XC66125","name":"OptRes_Run4_0.4n_0.35mm_PETG_MINI_2h5m.bgcode","size":747039,"mTimestamp":1739283377}
+{"date":"2025-02-11T15:40:08.529Z","id":"CZPX1522X017XC78087","name":"Drop Tower Specimen v1_0.4n_0.2mm_PLA_MINIIS_1h22m.bgcode","size":309288,"mTimestamp":1737471023}
+{"date":"2025-02-12T12:08:24.173Z","id":"CZPX4721X017XC66125","name":"OptRes_Run7_0.4n_0.35mm_PETG_MINI_2h4m.bgcode","size":520454,"mTimestamp":1739361983}
+{"date":"2025-02-12T12:50:11.861Z","id":"CZPX4921X017XC67390","name":"Box Printing test_Box_0.4n_0.15mm_PLA_MINI_6h9m.bgcode","size":1652221,"mTimestamp":1739364616}
+{"date":"2025-02-12T14:36:47.922Z","id":"CZPX4721X017XC66125","name":"OptRes_Run3_0.4n_0.35mm_PETG_MINI_1h47m.bgcode","size":523409,"mTimestamp":1739370688}
+{"date":"2025-02-12T14:39:02.863Z","id":"CZPX1622X017XC78384","name":"12mm adapterv3_0.4n_0.2mm_PLA_MINI_1h32m.bgcode","size":2401456,"mTimestamp":1739371098}
+{"date":"2025-02-12T15:15:29.934Z","id":"CZPX4521X017XC64043","name":"Base 25x25 x6.bgcode","size":2944357,"mTimestamp":1739373318}
+{"date":"2025-02-13T10:58:38.893Z","id":"CZPX4721X017XC66125","name":"OptRes_Run6_0.4n_0.15mm_PETG_MINI_2h13m.bgcode","size":1404994,"mTimestamp":1739443400}
+{"date":"2025-02-13T12:50:11.733Z","id":"CZPX1622X017XC78384","name":"10mm 18mm sq dowel v1_0.4n_0.2mm_PLA_MINIIS_29m.bgcode","size":381516,"mTimestamp":1739451015}
+{"date":"2025-02-13T13:28:46.081Z","id":"CZPX4721X017XC66125","name":"OptRes_Run8_0.4n_0.35mm_PETG_MINI_2h24m.bgcode","size":746555,"mTimestamp":1739453170}
+{"date":"2025-02-13T16:20:36.634Z","id":"CZPX4721X017XC66125","name":"OptRes_Run2_0.4n_0.15mm_PETG_MINI_3h35m.bgcode","size":1411665,"mTimestamp":1739463438}
+{"date":"2025-02-14T10:51:33.768Z","id":"CZPX1622X017XC78384","name":"George Pyke dogbone setup_0.4n_0.15mm_PLA_MINI_9h53m.bgcode","size":2555150,"mTimestamp":1739529960}
+{"date":"2025-02-14T11:13:56.043Z","id":"CZPX4521X017XC64043","name":"Lid 25x25.bgcode","size":2146158,"mTimestamp":1739531536}
+{"date":"2025-02-14T12:02:31.595Z","id":"CZPX1622X017XC78456","name":"Tensile specimen_0.4n_0.2mm_PLA_MINIIS_4h49m.gcode","size":4406224,"mTimestamp":1739534113}
+{"date":"2025-02-14T12:34:39.869Z","id":"CZPX4721X017XC66125","name":"OptRes_Run5_0.4n_0.15mm_PETG_MINI_1h58m.bgcode","size":875063,"mTimestamp":1739536408}
+{"date":"2025-02-14T14:51:40.866Z","id":"CZPX4721X017XC66125","name":"OptRes_Run1_0.4n_0.15mm_PETG_MINI_2h54m.bgcode","size":873247,"mTimestamp":1739543964}
+{"date":"2025-02-14T14:54:57.218Z","id":"CZPX4521X017XC64043","name":"Lid 25x25.bgcode","size":2146158,"mTimestamp":1739531536}
+{"date":"2025-02-14T16:08:45.564Z","id":"CZPX4521X017XC64043","name":"Pablotapa.bgcode","size":310974,"mTimestamp":1739549222}
+{"date":"2025-02-17T11:36:01.714Z","id":"CZPX1622X017XC78456","name":"print 2nd_0.4n_0.2mm_PLA_MINI_11h28m.bgcode","size":4774259,"mTimestamp":1739792119}
+{"date":"2025-02-17T15:52:45.529Z","id":"CZPX4921X017XC67390","name":"alignment v2_0.4n_0.2mm_PLA_MINI_2h59m.bgcode","size":1609194,"mTimestamp":1739807547}
+{"date":"2025-02-17T16:19:36.669Z","id":"CZPX1622X017XC78491","name":"vv21125_testjig.bgcode","size":1104570,"mTimestamp":1739809149}
+{"date":"2025-02-17T18:12:34.564Z","id":"CZPX4521X017XC64043","name":"rect_0.2_0.4n_0.2mm_PLA_MINIIS_1m.gcode","size":68038,"mTimestamp":1739815626}
+{"date":"2025-02-17T18:17:49.544Z","id":"CZPX4521X017XC64043","name":"rect_0.2_0.4n_0.2mm_PLA_MINIIS_1m.gcode","size":68038,"mTimestamp":1739815626}
+{"date":"2025-02-17T18:22:52.505Z","id":"CZPX4521X017XC64043","name":"rect_0.2_0.4n_0.2mm_PLA_MINIIS_1m.gcode","size":71905,"mTimestamp":1739816527}
+{"date":"2025-02-17T18:47:47.388Z","id":"CZPX4521X017XC64043","name":"rect_0.4_0.4n_0.2mm_PLA_MINIIS_1m.gcode","size":69155,"mTimestamp":1739817505}
+{"date":"2025-02-17T18:56:15.369Z","id":"CZPX4521X017XC64043","name":"rect_0.8_1.2_1.6_0.4n_0.2mm_PLA_MINIIS_6m.gcode","size":139127,"mTimestamp":1739818517}
+{"date":"2025-02-17T19:12:26.192Z","id":"CZPX4521X017XC64043","name":"onetwo.gcode","size":2606425,"mTimestamp":1739819469}
+{"date":"2025-02-17T19:21:25.912Z","id":"CZPX1622X017XC78491","name":"onetwo.gcode","size":2606425,"mTimestamp":1739819469}
+{"date":"2025-02-17T19:26:04.040Z","id":"CZPX1622X017XC78384","name":"onetwo2.gcode","size":3073486,"mTimestamp":1739819664}
+{"date":"2025-02-17T19:26:04.050Z","id":"CZPX1622X017XC78384","name":"onetwo2.gcode","size":3073486,"mTimestamp":1739819664}
+{"date":"2025-02-18T10:19:57.121Z","id":"CZPX1622X017XC78491","name":"Test Block_0.4n_0.2mm_PLA_MINI_2h6m.bgcode","size":1848940,"mTimestamp":1739873908}
+{"date":"2025-02-18T14:19:53.727Z","id":"CZPX1622X017XC78491","name":"vv21125_testjig.bgcode","size":1104570,"mTimestamp":1739809149}
+{"date":"2025-02-18T15:58:38.876Z","id":"CZPX4521X017XC64043","name":"2 DT Mini G Code.bgcode","size":309288,"mTimestamp":1739894289}
+{"date":"2025-02-19T12:38:48.055Z","id":"CZPX4521X017XC64043","name":"2 DT Mini G Code.bgcode","size":309288,"mTimestamp":1739894289}
+{"date":"2025-02-19T13:09:00.856Z","id":"CZPX1622X017XC78456","name":"dogbone_test_190.50.0.2.bgcode","size":188588,"mTimestamp":1739970540}
+{"date":"2025-02-20T12:41:17.824Z","id":"CZPX1622X017XC78384","name":"pablo.bgcode","size":973801,"mTimestamp":1740055276}
+{"date":"2025-02-20T13:33:11.608Z","id":"CZPX1622X017XC78456","name":"Tensile specimen_BL_v3.gcode","size":2082584,"mTimestamp":1740058036}
+{"date":"2025-02-20T13:45:07.832Z","id":"CZPX4921X017XC67390","name":"ASTM D3039 SPECIMEN 190.50.0.2.5.bgcode","size":240838,"mTimestamp":1740059065}
+{"date":"2025-02-20T16:44:23.622Z","id":"CZPX1622X017XC78456","name":"Tensile specimen_BL_v3_ME 1.gcode","size":1964253,"mTimestamp":1740069664}
+{"date":"2025-02-20T18:16:25.019Z","id":"CZPX1622X017XC78491","name":"onetwo.gcode","size":2606425,"mTimestamp":1739819469}
+{"date":"2025-02-21T14:14:05.293Z","id":"CZPX4921X017XC67390","name":"ASTM D3039 SPECIMEN 200.50.0.2.5.bgcode","size":240834,"mTimestamp":1740147209}
+{"date":"2025-02-21T14:16:43.792Z","id":"CZPX1622X017XC78456","name":"ASTM D3039 SPECIMEN 210.50.0.2.5.bgcode","size":240834,"mTimestamp":1740147383}
+{"date":"2025-02-21T14:20:14.447Z","id":"CZPX4921X017XC67390","name":"ASTM D3039 SPECIMEN 200.50.0.2.5.bgcode","size":240834,"mTimestamp":1740147209}
+{"date":"2025-02-21T14:27:57.941Z","id":"CZPX1622X017XC78384","name":"ASTM D3039 SPECIMEN 220.50.0.2.5.bgcode","size":240833,"mTimestamp":1740147920}
+{"date":"2025-02-24T10:49:15.720Z","id":"CZPX1522X017XC78087","name":"3d_print.gcode","size":438722,"mTimestamp":1740393600}
+{"date":"2025-02-24T10:51:32.132Z","id":"CZPX1522X017XC78087","name":"3d_print.gcode","size":438722,"mTimestamp":1740393600}
+{"date":"2025-02-24T10:55:54.924Z","id":"CZPX1622X017XC78491","name":"3d_print.gcode","size":438722,"mTimestamp":1740393600}
+{"date":"2025-02-24T10:58:51.472Z","id":"CZPX1622X017XC78491","name":"3d_print.gcode","size":438722,"mTimestamp":1740393600}
+{"date":"2025-02-24T10:58:57.823Z","id":"CZPX1622X017XC78491","name":"3d_print.gcode","size":438722,"mTimestamp":1740393600}
+{"date":"2025-02-24T11:22:03.891Z","id":"CZPX1522X017XC78087","name":"3d_print.gcode","size":438722,"mTimestamp":1740393600}
+{"date":"2025-02-24T11:22:52.031Z","id":"CZPX1522X017XC78087","name":"3d_print.gcode","size":438722,"mTimestamp":1740393600}
+{"date":"2025-02-24T11:26:31.726Z","id":"CZPX1522X017XC78087","name":"3d_print.gcode","size":438722,"mTimestamp":1740393600}
+{"date":"2025-02-24T11:26:36.710Z","id":"CZPX1522X017XC78087","name":"3d_print.gcode","size":438722,"mTimestamp":1740393600}
+{"date":"2025-02-24T12:06:56.226Z","id":"CZPX4921X017XC67390","name":"ASTMD3039ALLTEMPS50.0.3.1.gcode","size":791835,"mTimestamp":1740398765}
+{"date":"2025-02-24T15:51:52.433Z","id":"CZPX1622X017XC78456","name":"Tensile Test Specimen_0.4n_0.2mm_PLA_MINIIS_3h31m.gcode","size":3305363,"mTimestamp":1740412108}
+{"date":"2025-02-25T12:15:19.531Z","id":"CZPX4921X017XC67390","name":"ASTMD3039ALLTEMPS50.0.3.1.gcode","size":791835,"mTimestamp":1740398765}
+{"date":"2025-02-25T12:22:44.901Z","id":"CZPX4921X017XC67390","name":"ASTMd30390.3mm50.alltemps.gcode","size":818602,"mTimestamp":1740486138}
+{"date":"2025-02-25T12:29:48.243Z","id":"CZPX4921X017XC67390","name":"ASTMd30390.3mm50.alltemps.gcode","size":818602,"mTimestamp":1740486138}
+{"date":"2025-02-25T12:34:29.154Z","id":"CZPX4921X017XC67390","name":"ASTMd30390.3mm50.alltemps.gcode","size":818602,"mTimestamp":1740486138}
+{"date":"2025-02-25T13:16:26.986Z","id":"CZPX4921X017XC67390","name":"ASTMD3039ALLTEMPS50.0.3.gcode","size":804861,"mTimestamp":1740489327}
+{"date":"2025-02-25T13:28:41.171Z","id":"CZPX1622X017XC78456","name":"ASTMD3039ALLTEMPS50.0.1.gcode","size":1182755,"mTimestamp":1740490096}
+{"date":"2025-02-25T14:28:14.409Z","id":"CZPX4921X017XC67390","name":"ASTMD3039ALLTEMPS50.0.3.gcode","size":1301962,"mTimestamp":1740493689}
+{"date":"2025-02-25T14:39:08.370Z","id":"CZPX1622X017XC78456","name":"ASTMD3039ALLTEMPS30.0.1.gcode","size":3346105,"mTimestamp":1740494303}
+{"date":"2025-02-25T14:45:01.413Z","id":"CZPX1622X017XC78384","name":"ASTMD3039ALLTEMPS70.0.1.gcode","size":3337486,"mTimestamp":1740494658}
+{"date":"2025-02-25T14:48:54.140Z","id":"CZPX1522X017XC78087","name":"3d_print.gcode","size":242397,"mTimestamp":1740493880}
+{"date":"2025-02-25T15:15:29.111Z","id":"CZPX1522X017XC78087","name":"3d_print.gcode","size":276275,"mTimestamp":1740496385}
+{"date":"2025-02-25T15:19:23.832Z","id":"CZPX1522X017XC78087","name":"3d_print.gcode","size":276275,"mTimestamp":1740496385}
+{"date":"2025-02-25T15:21:22.197Z","id":"CZPX1522X017XC78087","name":"3d_print.gcode","size":276275,"mTimestamp":1740496385}
+{"date":"2025-02-25T15:23:10.539Z","id":"CZPX1522X017XC78087","name":"3d_print.gcode","size":276275,"mTimestamp":1740496385}
+{"date":"2025-02-25T15:24:32.796Z","id":"CZPX1522X017XC78087","name":"3d_print.gcode","size":276275,"mTimestamp":1740496385}
+{"date":"2025-02-26T10:24:24.278Z","id":"CZPX4921X017XC67390","name":"ASTM220.50.0.2.gcode","size":1808501,"mTimestamp":1740565457}
+{"date":"2025-02-26T10:27:00.778Z","id":"CZPX1622X017XC78384","name":"ASTM210.50.0.2.gcode","size":1808501,"mTimestamp":1740565575}
+{"date":"2025-02-26T10:30:59.545Z","id":"CZPX1622X017XC78456","name":"ASTM200.50.0.2.gcode","size":1808501,"mTimestamp":1740565693}
+{"date":"2025-02-26T10:40:55.525Z","id":"CZPX1522X017XC78087","name":"ASTM210.50.0.2.gcode","size":1808501,"mTimestamp":1740565575}
+{"date":"2025-02-26T12:55:46.492Z","id":"CZPX4721X017XC66125","name":"OptRes_Run1_0.4n_0.15mm_PETG_MINI_2h54m.bgcode","size":873247,"mTimestamp":1739543964}
+{"date":"2025-02-26T15:48:48.387Z","id":"CZPX1522X017XC78087","name":"3d_print.gcode","size":270809,"mTimestamp":1740584830}
+{"date":"2025-02-26T15:51:48.980Z","id":"CZPX1622X017XC78491","name":"3d_print.gcode","size":270809,"mTimestamp":1740584830}
+{"date":"2025-02-27T10:20:57.032Z","id":"CZPX1522X017XC78087","name":"trigger bu21980.bgcode","size":1970010,"mTimestamp":1740651627}
+{"date":"2025-02-27T10:34:53.865Z","id":"CZPX1522X017XC78087","name":"trigger bu21980.bgcode","size":1970010,"mTimestamp":1740651627}
+{"date":"2025-02-27T10:35:12.928Z","id":"CZPX1622X017XC78384","name":"trigger bu21980.bgcode","size":1970010,"mTimestamp":1740651627}
+{"date":"2025-02-27T10:41:03.039Z","id":"CZPX1622X017XC78384","name":"trigger bu21980.bgcode","size":1970010,"mTimestamp":1740651627}
+{"date":"2025-02-27T10:43:17.475Z","id":"CZPX4921X017XC67390","name":"trigger bu21980.bgcode","size":1970010,"mTimestamp":1740651627}
+{"date":"2025-02-27T10:49:48.750Z","id":"CZPX1622X017XC78384","name":"base-print_0.2mm_PLA_MINI_12h38m.gcode","size":8759040,"mTimestamp":1740653188}
+{"date":"2025-02-27T11:05:27.980Z","id":"CZPX1622X017XC78384","name":"base-print_0.2mm_PLA_MINI_12h38m.gcode","size":8759040,"mTimestamp":1740653188}
+{"date":"2025-02-27T11:21:13.034Z","id":"CZPX1622X017XC78456","name":"2 DT Mini G Code.bgcode","size":309288,"mTimestamp":1740655207}
+{"date":"2025-02-27T11:55:59.966Z","id":"CZPX1522X017XC78087","name":"MMMGGGGGG full catch mechnanism v4_0.4n_0.2mm_PLA_MINIIS_1h55m.bgcode","size":1773069,"mTimestamp":1740656363}
+{"date":"2025-02-27T12:30:16.820Z","id":"CZPX4721X017XC66125","name":"Just_Front_0.4n_0.2mm_PETG_MINI_4h40m.bgcode","size":1523288,"mTimestamp":1740659296}
+{"date":"2025-02-27T12:57:09.271Z","id":"CZPX4721X017XC66125","name":"Just_Front_0.4n_0.2mm_PETG_MINI_4h41m.bgcode","size":1523352,"mTimestamp":1740661020}
+{"date":"2025-02-27T13:19:24.735Z","id":"CZPX1622X017XC78456","name":"2 DT Mini G Code.bgcode","size":309288,"mTimestamp":1740655207}
+{"date":"2025-02-27T14:14:55.845Z","id":"CZPX1522X017XC78087","name":"MMMGGGGGG full catch mechnanism v4_0.4n_0.2mm_PLA_MINIIS_1h55m.bgcode","size":1773069,"mTimestamp":1740665650}
+{"date":"2025-02-27T14:16:04.038Z","id":"CZPX4921X017XC67390","name":"3d_print.gcode","size":272753,"mTimestamp":1740665727}
+{"date":"2025-02-27T15:10:49.070Z","id":"CZPX4921X017XC67390","name":"3d_print.gcode","size":270561,"mTimestamp":1740668953}
+{"date":"2025-02-27T15:16:14.152Z","id":"CZPX4921X017XC67390","name":"3d_print.gcode","size":270561,"mTimestamp":1740668953}
+{"date":"2025-02-27T15:19:14.737Z","id":"CZPX4921X017XC67390","name":"3d_print.gcode","size":270561,"mTimestamp":1740668953}
+{"date":"2025-02-27T15:30:06.846Z","id":"CZPX4921X017XC67390","name":"3d_print.gcode","size":271838,"mTimestamp":1740669911}
+{"date":"2025-02-27T15:35:17.879Z","id":"CZPX4921X017XC67390","name":"3d_print.gcode","size":271838,"mTimestamp":1740669911}
+{"date":"2025-02-27T15:39:08.659Z","id":"CZPX1622X017XC78491","name":"OrcaToleranceTest_0.2mm_PLA_MINI_27m57s.gcode","size":1170034,"mTimestamp":1740670460}
+{"date":"2025-02-27T15:48:54.703Z","id":"CZPX1622X017XC78456","name":"3d_print.gcode","size":271838,"mTimestamp":1740669911}
+{"date":"2025-02-27T15:53:01.478Z","id":"CZPX4921X017XC67390","name":"OrcaToleranceTest_0.2mm_PLA_MINI_27m57s.gcode","size":1170034,"mTimestamp":1740670460}
+{"date":"2025-02-27T16:05:20.261Z","id":"CZPX1622X017XC78491","name":"OrcaToleranceTest_0.4n_0.2mm_PLA_MINIIS_16m.gcode","size":1093215,"mTimestamp":1740672268}
+{"date":"2025-02-27T16:28:32.581Z","id":"CZPX1622X017XC78491","name":"OrcaToleranceTest_0.4n_0.2mm_PLA_MINIIS_16m.gcode","size":1093215,"mTimestamp":1740673642}
+{"date":"2025-02-27T16:57:30.719Z","id":"CZPX1622X017XC78456","name":"Tensile Test Specimen_0.4n_0.2mm_PLA_MINIIS_16m.gcode","size":1057288,"mTimestamp":1740675370}
+{"date":"2025-02-27T17:05:26.232Z","id":"CZPX1622X017XC78384","name":"base-print_0.2mm_PLA_MINI_12h38m.gcode","size":8759040,"mTimestamp":1740653188}
+{"date":"2025-02-27T17:06:18.396Z","id":"CZPX1622X017XC78384","name":"base-print_0.2mm_PLA_MINI_12h38m.gcode","size":8759040,"mTimestamp":1740653188}
+{"date":"2025-02-27T17:19:08.888Z","id":"CZPX1622X017XC78456","name":"Tensile Test Specimen_0.4n_0.2mm_PLA_MINIIS_1h37m.gcode","size":908402,"mTimestamp":1740675011}
+{"date":"2025-02-28T10:17:47.494Z","id":"CZPX1622X017XC78491","name":"3d_print.gcode","size":300239,"mTimestamp":1740721341}
+{"date":"2025-02-28T10:22:06.283Z","id":"CZPX1622X017XC78384","name":"3d_print.gcode","size":300239,"mTimestamp":1740721341}
+{"date":"2025-02-28T10:24:44.803Z","id":"CZPX4921X017XC67390","name":"TEST 1 CURVATURE 1D.bgcode","size":3561963,"mTimestamp":1740738256}
+{"date":"2025-02-28T10:30:41.905Z","id":"CZPX4921X017XC67390","name":"TEST 1 CURVATURE 1D.bgcode","size":3561963,"mTimestamp":1740738256}
+{"date":"2025-02-28T10:53:34.324Z","id":"CZPX1622X017XC78384","name":"3d_print.gcode","size":300239,"mTimestamp":1740721341}
+{"date":"2025-02-28T10:56:00.773Z","id":"CZPX1622X017XC78384","name":"3d_print.gcode","size":300239,"mTimestamp":1740721341}
+{"date":"2025-02-28T11:42:05.504Z","id":"CZPX1622X017XC78384","name":"3d_print.gcode","size":300239,"mTimestamp":1740721341}
+{"date":"2025-02-28T11:45:58.235Z","id":"CZPX1622X017XC78384","name":"serpantsup.gcode","size":11319881,"mTimestamp":1738585336}
+{"date":"2025-02-28T11:57:26.463Z","id":"CZPX1622X017XC78384","name":"3d_print.gcode","size":300239,"mTimestamp":1740721341}
+{"date":"2025-02-28T12:16:48.121Z","id":"CZPX1622X017XC78456","name":"ASTM210.50.0.2.gcode","size":1808501,"mTimestamp":1740745023}
+{"date":"2025-02-28T12:18:02.356Z","id":"CZPX1622X017XC78384","name":"ASTM190.50.0.2.gcode","size":1808641,"mTimestamp":1740745090}
+{"date":"2025-02-28T12:32:49.190Z","id":"CZPX1622X017XC78456","name":"ASTM210.50.0.2.gcode","size":1808501,"mTimestamp":1740745023}
+{"date":"2025-02-28T13:08:44.090Z","id":"CZPX1622X017XC78456","name":"ASTM210.50.0.2.gcode","size":1808501,"mTimestamp":1740745023}
+{"date":"2025-02-28T13:09:02.136Z","id":"CZPX1622X017XC78491","name":"ASTM190.50.0.2.gcode","size":1808641,"mTimestamp":1740745090}
+{"date":"2025-02-28T13:16:08.560Z","id":"CZPX1622X017XC78384","name":"Tensile Test Specimen_0.4n_0.2mm_PLA_MINIIS_1h4m.bgcode","size":224161,"mTimestamp":1740748451}
+{"date":"2025-02-28T13:17:57.902Z","id":"CZPX1622X017XC78384","name":"Tensile Test Specimen_0.4n_0.2mm_PLA_MINIIS_1h4m.bgcode","size":224161,"mTimestamp":1740748451}
+{"date":"2025-02-28T13:19:34.454Z","id":"CZPX1622X017XC78384","name":"non bi.gcode","size":1222863,"mTimestamp":1740748466}
+{"date":"2025-02-28T13:25:15.225Z","id":"CZPX1622X017XC78456","name":"ASTM210.50.0.2.gcode","size":1808501,"mTimestamp":1740745023}
+{"date":"2025-02-28T13:33:12.727Z","id":"CZPX1522X017XC78087","name":"ASTM210.50.0.2.gcode","size":1808501,"mTimestamp":1740745023}
+{"date":"2025-02-28T13:35:09.085Z","id":"CZPX1622X017XC78384","name":"ASTM210.50.0.2.gcode","size":1808501,"mTimestamp":1740745023}
+{"date":"2025-02-28T13:42:46.598Z","id":"CZPX1622X017XC78384","name":"Tensile specimen_BL.gcode","size":1497355,"mTimestamp":1740750120}
+{"date":"2025-02-28T13:46:41.369Z","id":"CZPX1522X017XC78087","name":"Tensile specimen_BL.gcode","size":1497355,"mTimestamp":1740750120}
+{"date":"2025-02-28T13:53:40.779Z","id":"CZPX1522X017XC78087","name":"OrcaToleranceTest_0.4n_0.2mm_PLA_MINIIS_16m.gcode","size":1093215,"mTimestamp":1740750809}
+{"date":"2025-02-28T15:03:24.181Z","id":"CZPX1522X017XC78087","name":"Tensile Test Specimen Mask_0.4n_0.2mm_PLA_MINIIS_26m.gcode","size":834233,"mTimestamp":1740754939}
+{"date":"2025-02-28T15:22:38.308Z","id":"CZPX4721X017XC66125","name":"Tensile Test Specimen_0.4n_0.2mm_PLA_MINIIS_23m.gcode","size":784512,"mTimestamp":1740756062}
+{"date":"2025-02-28T15:26:44.688Z","id":"CZPX1522X017XC78087","name":"Tensile Test Specimen_0.4n_0.2mm_PLA_MINIIS_23m.gcode","size":784512,"mTimestamp":1740756062}
+{"date":"2025-02-28T15:32:29.771Z","id":"CZPX4721X017XC66125","name":"aaaaaaaaaaaaaacover for main catch mechanis v5_0.4n_0.2mm_PLA_MINIIS_3h26m.bgcode","size":2816817,"mTimestamp":1740756731}
+{"date":"2025-02-28T15:35:37.005Z","id":"CZPX1522X017XC78087","name":"Tensile Test Specimen_0.4n_0.2mm_PLA_MINIIS_23m.gcode","size":784512,"mTimestamp":1740756062}
+{"date":"2025-02-28T15:36:08.470Z","id":"CZPX1522X017XC78087","name":"Tensile Test Specimen_0.4n_0.2mm_PLA_MINIIS_23m.gcode","size":784512,"mTimestamp":1740756062}
+{"date":"2025-02-28T15:41:03.375Z","id":"CZPX1622X017XC78456","name":"3d_print.gcode","size":302449,"mTimestamp":1740756084}
+{"date":"2025-02-28T15:49:32.992Z","id":"CZPX4721X017XC66125","name":"aaaaaaaaaaaaaacover for main catch mechanis v5_0.4n_0.2mm_PLA_MINIIS_3h26m.bgcode","size":2816817,"mTimestamp":1740756731}
+{"date":"2025-02-28T15:54:07.869Z","id":"CZPX1622X017XC78456","name":"3d_print.gcode","size":302449,"mTimestamp":1740756084}
+{"date":"2025-02-28T15:54:31.955Z","id":"CZPX4721X017XC66125","name":"aaaaaaaaaaaaaacover for main catch mechanis v5_0.4n_0.2mm_PLA_MINIIS_3h26m.bgcode","size":2816817,"mTimestamp":1740756731}
+{"date":"2025-02-28T15:55:38.152Z","id":"CZPX1622X017XC78456","name":"3d_print.gcode","size":302449,"mTimestamp":1740756084}
+{"date":"2025-02-28T16:01:09.244Z","id":"CZPX4921X017XC67390","name":"TEST 1 CURVATURE 1D.bgcode","size":3561963,"mTimestamp":1740738256}
+{"date":"2025-03-03T09:39:41.424Z","id":"CZPX1622X017XC78456","name":"bu21980.bgcode","size":2206451,"mTimestamp":1740994764}
+{"date":"2025-03-03T09:45:12.483Z","id":"CZPX4721X017XC66125","name":"bu21980.bgcode","size":2206451,"mTimestamp":1740994764}
+{"date":"2025-03-03T09:47:46.962Z","id":"CZPX4921X017XC67390","name":"Testing_CDV2.bgcode","size":3125591,"mTimestamp":1740995235}
+{"date":"2025-03-03T09:57:08.812Z","id":"CZPX4921X017XC67390","name":"Testing_CDV2.bgcode","size":3125591,"mTimestamp":1740995235}
+{"date":"2025-03-03T10:17:58.855Z","id":"CZPX1622X017XC78491","name":"test geometries rg22042.bgcode","size":2988219,"mTimestamp":1740996970}
+{"date":"2025-03-03T11:47:12.447Z","id":"CZPX4721X017XC66125","name":"ASTM210.50.0.2.gcode","size":1808501,"mTimestamp":1741002436}
+{"date":"2025-03-03T11:49:56.702Z","id":"CZPX1622X017XC78456","name":"ASTM180.50.0.2.gcode","size":1808641,"mTimestamp":1741002606}
+{"date":"2025-03-03T13:18:15.963Z","id":"CZPX1522X017XC78087","name":"Spur Gear (30 teeth) v2_0.4n_0.2mm_PLA_MINI_1h33m.bgcode","size":1362891,"mTimestamp":1741007839}
+{"date":"2025-03-03T13:23:02.704Z","id":"CZPX1522X017XC78087","name":"Spur Gear (30 teeth) v2_0.4n_0.2mm_PLA_MINI_1h33m.bgcode","size":1362891,"mTimestamp":1741007839}
+{"date":"2025-03-03T13:27:09.528Z","id":"CZPX1522X017XC78087","name":"Testing_CDTest_0.4n_0.1mm_PLA_MINI_10h24m.bgcode","size":2588516,"mTimestamp":1741008424}
+{"date":"2025-03-03T14:47:27.037Z","id":"CZPX1622X017XC78491","name":"v0 main catch non square right_0.4n_0.2mm_ABS_MINIIS_3h46m.bgcode","size":4041082,"mTimestamp":1741012996}
+{"date":"2025-03-03T14:57:04.904Z","id":"CZPX1622X017XC78491","name":"v0 main catch non square right_0.4n_0.2mm_PLA_MINIIS_3h45m.bgcode","size":4108632,"mTimestamp":1741013342}
+{"date":"2025-03-03T15:13:36.194Z","id":"CZPX4721X017XC66125","name":"bu1980.bgcode","size":456893,"mTimestamp":1741014803}
+{"date":"2025-03-03T15:19:43.309Z","id":"CZPX1622X017XC78456","name":"lte v0 main catch non square_0.4n_0.2mm_PLA_MINIIS_2h56m.bgcode","size":2925646,"mTimestamp":1741015032}
+{"date":"2025-03-03T16:00:19.182Z","id":"CZPX4721X017XC66125","name":"lte v0 main catch non square_0.4n_0.2mm_PLA_MINIIS_2h56m.bgcode","size":2925646,"mTimestamp":1741015032}
+{"date":"2025-03-04T09:38:11.222Z","id":"CZPX1622X017XC78456","name":"dovetail and finger big.bgcode","size":4590547,"mTimestamp":1741081048}
+{"date":"2025-03-04T09:49:03.319Z","id":"CZPX1622X017XC78456","name":"dovetail and finger big.bgcode","size":4590547,"mTimestamp":1741081048}
+{"date":"2025-03-04T12:13:43.323Z","id":"CZPX4921X017XC67390","name":"dovetail and finger big.bgcode","size":4590547,"mTimestamp":1741081048}
+{"date":"2025-03-04T12:15:27.660Z","id":"CZPX1622X017XC78384","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-04T12:26:47.859Z","id":"CZPX4721X017XC66125","name":"trigger22222 v1_0.4n_0.2mm_PLA_MINIIS_7m.bgcode","size":141678,"mTimestamp":1741091224}
+{"date":"2025-03-04T12:30:18.511Z","id":"CZPX1622X017XC78384","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-04T13:24:22.995Z","id":"CZPX1622X017XC78456","name":"1.bgcode","size":1092945,"mTimestamp":1741094605}
+{"date":"2025-03-04T13:43:16.646Z","id":"CZPX1622X017XC78456","name":"1.bgcode","size":1092945,"mTimestamp":1741094605}
+{"date":"2025-03-04T13:43:52.767Z","id":"CZPX4721X017XC66125","name":"1.bgcode","size":1092945,"mTimestamp":1741094605}
+{"date":"2025-03-04T14:20:59.940Z","id":"CZPX1622X017XC78456","name":"ASTM210.gcode","size":1808501,"mTimestamp":1741098070}
+{"date":"2025-03-04T14:28:17.356Z","id":"CZPX1622X017XC78491","name":"ASTM210.gcode","size":1808501,"mTimestamp":1741098070}
+{"date":"2025-03-04T14:40:07.728Z","id":"CZPX1622X017XC78384","name":"ASTMALLTEMP70.0.2.gcode","size":1807302,"mTimestamp":1741098385}
+{"date":"2025-03-04T14:44:00.442Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-04T14:54:12.394Z","id":"CZPX1622X017XC78384","name":"ASTMALLTEMP70.0.2.gcode","size":1807302,"mTimestamp":1741098385}
+{"date":"2025-03-04T14:56:20.820Z","id":"CZPX1622X017XC78384","name":"ASTMALLTEMP70.0.2.gcode","size":1807302,"mTimestamp":1741098385}
+{"date":"2025-03-04T15:07:00.941Z","id":"CZPX1622X017XC78456","name":"fr20130_CalibrationHole_1_0.4n_0.2mm_PLA_MINIIS_3h1m.bgcode","size":6849702,"mTimestamp":1741100720}
+{"date":"2025-03-04T15:07:06.949Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-04T15:07:09.043Z","id":"CZPX4721X017XC66125","name":"ASTMALLTEMP70.0.2.gcode","size":1807302,"mTimestamp":1741098385}
+{"date":"2025-03-04T15:07:14.974Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-04T15:08:25.227Z","id":"CZPX1622X017XC78384","name":"fr20130_CalibrationHole_1_0.4n_0.2mm_PLA_MINIIS_3h1m.bgcode","size":6849702,"mTimestamp":1741100890}
+{"date":"2025-03-04T15:13:16.205Z","id":"CZPX1522X017XC78087","name":"fr20130_CalibrationHole_1_0.4n_0.2mm_PLA_MINIIS_3h1m.bgcode","size":6849702,"mTimestamp":1741100890}
+{"date":"2025-03-04T15:26:44.752Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-04T15:27:10.845Z","id":"CZPX1622X017XC78384","name":"fr20130_CalibrationHole_1_0.4n_0.2mm_PLA_MINIIS_3h1m.bgcode","size":6849702,"mTimestamp":1741100890}
+{"date":"2025-03-04T15:29:11.226Z","id":"CZPX1622X017XC78384","name":"fr20130_CalibrationHole_1_0.4n_0.2mm_PLA_MINIIS_3h1m.bgcode","size":6849702,"mTimestamp":1741100890}
+{"date":"2025-03-04T15:43:36.017Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-04T15:46:22.605Z","id":"CZPX1622X017XC78384","name":"fr20130_CalibrationHole_1_0.4n_0.2mm_PLA_MINIIS_3h1m.bgcode","size":6849702,"mTimestamp":1741100890}
+{"date":"2025-03-04T15:53:07.869Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-04T15:57:04.613Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-04T15:57:10.632Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-04T16:10:53.291Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-04T16:13:01.725Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-04T16:42:29.436Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-04T16:51:39.250Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-18T10:22:51.504Z","id":"CZPX1522X017XC78087","name":"Piece3SegmentMainBody v3.gcode","size":899358,"mTimestamp":1742231052}
+{"date":"2025-03-18T10:22:51.512Z","id":"CZPX4921X017XC67390","name":"16.8mm socket v2.gcode","size":4131481,"mTimestamp":1742230988}
+{"date":"2025-03-18T10:22:51.524Z","id":"CZPX1622X017XC78491","name":"PI3_drive_gear (1).gcode","size":3125693,"mTimestamp":1742292976}
+{"date":"2025-03-18T10:33:59.758Z","id":"CZPX1622X017XC78384","name":"Specimen 4_PO Y_ NT 230.gcode","size":2504066,"mTimestamp":1742230506}
+{"date":"2025-03-18T10:36:26.252Z","id":"CZPX4521X017XC64043","name":"16.8mm socket v2.gcode","size":4131481,"mTimestamp":1742230988}
+{"date":"2025-03-18T10:36:52.332Z","id":"CZPX1522X017XC78087","name":"Piece3SegmentMainBody v3.gcode","size":899358,"mTimestamp":1742231052}
+{"date":"2025-03-18T10:36:52.348Z","id":"CZPX1622X017XC78491","name":"PI3_drive_gear (1).gcode","size":3125693,"mTimestamp":1742292976}
+{"date":"2025-03-18T10:38:14.647Z","id":"CZPX1622X017XC78456","name":"PI3_drive_gear (1).gcode","size":2067026,"mTimestamp":1742294232}
+{"date":"2025-03-18T10:50:27.100Z","id":"CZPX4921X017XC67390","name":"Piece3SegmentMainBody v3_0.4n_0.2mm_PLA_MINIIS_1h18m.bgcode","size":713867,"mTimestamp":1742294940}
+{"date":"2025-03-18T11:07:28.540Z","id":"CZPX1522X017XC78087","name":"Ergonomic JoyStick_0.4n_0.2mm_PLA_MINIIS_2h51m.bgcode","size":2956368,"mTimestamp":1742296031}
+{"date":"2025-03-18T11:12:01.479Z","id":"CZPX1622X017XC78491","name":"TestRigClampEnd v4_0.4n_0.2mm_PLA_MINIIS_1h48m.bgcode","size":1317838,"mTimestamp":1742296284}
+{"date":"2025-03-18T11:21:03.294Z","id":"CZPX4921X017XC67390","name":"TestRigClampEnd v4_0.4n_0.2mm_PLA_MINIIS_1h48m.bgcode","size":1317838,"mTimestamp":1742296284}
+{"date":"2025-03-18T11:40:17.241Z","id":"CZPX4521X017XC64043","name":"Piece3SegmentMainBody v3.gcode","size":899358,"mTimestamp":1742231052}
+{"date":"2025-03-18T12:14:24.148Z","id":"CZPX1622X017XC78491","name":"fliper18.bgcode","size":275348,"mTimestamp":1742299988}
+{"date":"2025-03-18T13:10:09.505Z","id":"CZPX1622X017XC78456","name":"3d_print.gcode","size":373072,"mTimestamp":1742303244}
+{"date":"2025-03-18T13:11:43.817Z","id":"CZPX1622X017XC78456","name":"3d_print.gcode","size":373072,"mTimestamp":1742303244}
+{"date":"2025-03-18T13:14:10.299Z","id":"CZPX1622X017XC78491","name":"3d_print.gcode","size":373072,"mTimestamp":1742303244}
+{"date":"2025-03-18T13:22:03.869Z","id":"CZPX4921X017XC67390","name":"fliper18.bgcode","size":275348,"mTimestamp":1742299988}
+{"date":"2025-03-18T13:34:22.322Z","id":"CZPX4521X017XC64043","name":"pablogcode.bgcode","size":662763,"mTimestamp":1742304629}
+{"date":"2025-03-18T13:39:29.373Z","id":"CZPX1622X017XC78456","name":"3d_print.gcode","size":373056,"mTimestamp":1742304737}
+{"date":"2025-03-18T13:40:27.556Z","id":"CZPX1622X017XC78456","name":"3d_print.gcode","size":373056,"mTimestamp":1742304737}
+{"date":"2025-03-18T13:49:41.445Z","id":"CZPX4921X017XC67390","name":"fliper18.bgcode","size":275348,"mTimestamp":1742299988}
+{"date":"2025-03-18T14:15:34.706Z","id":"CZPX4521X017XC64043","name":"pablogcode.bgcode","size":662763,"mTimestamp":1742304629}
+{"date":"2025-03-18T14:17:19.084Z","id":"CZPX4521X017XC64043","name":"pablogcode.bgcode","size":752197,"mTimestamp":1742307388}
+{"date":"2025-03-18T14:34:55.701Z","id":"CZPX1522X017XC78087","name":"funnelpablo.bgcode","size":1053803,"mTimestamp":1742308461}
+{"date":"2025-03-18T14:36:37.112Z","id":"CZPX4921X017XC67390","name":"fliper18.bgcode","size":275348,"mTimestamp":1742299988}
+{"date":"2025-03-18T14:55:46.884Z","id":"CZPX1622X017XC78456","name":"3d_print.gcode","size":752479,"mTimestamp":1742309606}
+{"date":"2025-03-18T14:56:53.113Z","id":"CZPX1622X017XC78456","name":"3d_print.gcode","size":752479,"mTimestamp":1742309606}
+{"date":"2025-03-18T14:58:09.355Z","id":"CZPX1622X017XC78456","name":"3d_print.gcode","size":752479,"mTimestamp":1742309606}
+{"date":"2025-03-18T15:04:30.629Z","id":"CZPX1622X017XC78456","name":"3d_print.gcode","size":752479,"mTimestamp":1742309606}
+{"date":"2025-03-18T15:08:59.553Z","id":"CZPX1622X017XC78456","name":"3d_print.gcode","size":752479,"mTimestamp":1742309606}
+{"date":"2025-03-18T15:09:35.665Z","id":"CZPX4521X017XC64043","name":"fliper18.bgcode","size":275348,"mTimestamp":1742299988}
+{"date":"2025-03-18T15:11:12.026Z","id":"CZPX4921X017XC67390","name":"print-plate-center-discs-and-spool-axis-and-nuts_1_0.4n_0.2mm_PLA_MINI_1d2h15m.bgcode","size":24497117,"mTimestamp":1742310625}
+{"date":"2025-03-18T15:35:18.902Z","id":"CZPX4521X017XC64043","name":"pin_using_makercase_15+cm_up v2_0.4n_0.2mm_PLA_MINIIS_25m.bgcode","size":218045,"mTimestamp":1742311811}
+{"date":"2025-03-18T16:03:34.607Z","id":"CZPX4521X017XC64043","name":"print-plate-axis-washers-handle(1)_1_0.4n_0.2mm_PLA_MINI_13h30m.bgcode","size":14814928,"mTimestamp":1742313739}
+{"date":"2025-03-19T09:21:11.000Z","id":"CZPX4521X017XC64043","name":"FliperTesting.bgcode","size":265264,"mTimestamp":1742376066}
+{"date":"2025-03-19T10:03:49.664Z","id":"CZPX4521X017XC64043","name":"two_fliper_set.bgcode","size":334959,"mTimestamp":1742378607}
+{"date":"2025-03-19T10:11:13.173Z","id":"CZPX4521X017XC64043","name":"two_fliper_set.bgcode","size":334959,"mTimestamp":1742378607}
+{"date":"2025-03-19T10:18:16.572Z","id":"CZPX4521X017XC64043","name":"two_fliper_sets.bgcode","size":361168,"mTimestamp":1742379490}
+{"date":"2025-03-19T10:25:54.121Z","id":"CZPX4521X017XC64043","name":"two_fliper_sets.bgcode","size":361168,"mTimestamp":1742379490}
+{"date":"2025-03-19T10:30:47.116Z","id":"CZPX4521X017XC64043","name":"slowFilper.bgcode","size":361164,"mTimestamp":1742380225}
+{"date":"2025-03-19T10:39:26.868Z","id":"CZPX4521X017XC64043","name":"slowFilper.bgcode","size":360818,"mTimestamp":1742380708}
+{"date":"2025-03-19T10:47:48.587Z","id":"CZPX1622X017XC78456","name":"3d_print.gcode","size":776397,"mTimestamp":1742381222}
+{"date":"2025-03-19T10:53:13.687Z","id":"CZPX4521X017XC64043","name":"8.8 fliper v1_0.4n_0.15mm_PLA_MINIIS_24m.bgcode","size":403292,"mTimestamp":1742381581}
+{"date":"2025-03-19T11:27:54.673Z","id":"CZPX4521X017XC64043","name":"8.8 fliper v1_0.4n_0.15mm_PLA_MINIIS_24m.bgcode","size":403292,"mTimestamp":1742381581}
+{"date":"2025-03-19T12:06:30.465Z","id":"CZPX4521X017XC64043","name":"8.8 fliper v1_0.4n_0.15mm_PLA_MINIIS_24m.bgcode","size":403292,"mTimestamp":1742381581}
+{"date":"2025-03-19T12:26:02.467Z","id":"CZPX1522X017XC78087","name":"print-plate-axis-washers-handle(1)_1_0.4n_0.2mm_PLA_MINI_13h30m.bgcode","size":14814928,"mTimestamp":1742387104}
+{"date":"2025-03-19T12:30:27.374Z","id":"CZPX1622X017XC78384","name":"ibrahimcabron.bgcode","size":486453,"mTimestamp":1742387165}
+{"date":"2025-03-19T12:41:21.584Z","id":"CZPX4521X017XC64043","name":"plattt.bgcode","size":1885872,"mTimestamp":1742387603}
+{"date":"2025-03-19T13:00:05.473Z","id":"CZPX1622X017XC78384","name":"TPU_0.4n_0.2mm_FLEX_MINIIS_4m.bgcode","size":98644,"mTimestamp":1742389164}
+{"date":"2025-03-19T13:04:36.388Z","id":"CZPX1622X017XC78384","name":"TPU_0.4n_0.2mm_FLEX_MINIIS_4m.bgcode","size":98644,"mTimestamp":1742389164}
+{"date":"2025-03-19T13:15:30.602Z","id":"CZPX1622X017XC78456","name":"3d_print.gcode","size":383784,"mTimestamp":1742390103}
+{"date":"2025-03-19T13:21:39.153Z","id":"CZPX1622X017XC78456","name":"3d_print.gcode","size":383784,"mTimestamp":1742390103}
+{"date":"2025-03-19T13:21:39.160Z","id":"CZPX1622X017XC78456","name":"3d_print.gcode","size":383784,"mTimestamp":1742390103}
+{"date":"2025-03-19T13:23:22.183Z","id":"CZPX1622X017XC78384","name":"showww.bgcode","size":708447,"mTimestamp":1742390589}
+{"date":"2025-03-19T13:57:13.099Z","id":"CZPX1622X017XC78491","name":"JointBody_0.4n_0.2mm_PLA_MINI_1h24m.bgcode","size":1957528,"mTimestamp":1742392521}
+{"date":"2025-03-19T16:24:58.305Z","id":"CZPX1622X017XC78384","name":"Coloumn Joint_0.4n_0.2mm_PLA_MINI_31m.bgcode","size":817701,"mTimestamp":1742401399}
+{"date":"2025-03-19T17:17:48.122Z","id":"CZPX1622X017XC78384","name":"Coloumn Joint_0.4n_0.2mm_PLA_MINI_31m.bgcode","size":490096,"mTimestamp":1742404635}
+{"date":"2025-03-20T12:02:54.178Z","id":"CZPX1622X017XC78384","name":"Coloumn Joint3_0.4n_0.2mm_PLA_MINI_31m.bgcode","size":885817,"mTimestamp":1742472132}
+{"date":"2025-03-20T12:06:15.849Z","id":"CZPX4521X017XC64043","name":"arc x fill.bgcode","size":1241990,"mTimestamp":1742472085}
+{"date":"2025-03-20T12:34:15.600Z","id":"CZPX4921X017XC67390","name":"gantry support_0.4n_0.15mm_PLA_MINI_1h31m.bgcode","size":1367518,"mTimestamp":1742474042}
+{"date":"2025-03-20T12:37:42.260Z","id":"CZPX1522X017XC78087","name":"beams.bgcode","size":1004807,"mTimestamp":1742474120}
+{"date":"2025-03-20T13:10:47.029Z","id":"CZPX1622X017XC78491","name":"P5.bgcode","size":13061706,"mTimestamp":1742475789}
+{"date":"2025-03-20T13:23:29.613Z","id":"CZPX1622X017XC78384","name":"P5.bgcode","size":13061706,"mTimestamp":1742475789}
+{"date":"2025-03-20T13:27:12.360Z","id":"CZPX1622X017XC78384","name":"P5.bgcode","size":13061706,"mTimestamp":1742475789}
+{"date":"2025-03-20T14:15:22.141Z","id":"CZPX4921X017XC67390","name":"P5.bgcode","size":13061706,"mTimestamp":1742475789}
+{"date":"2025-03-20T14:16:42.394Z","id":"CZPX4921X017XC67390","name":"P5.bgcode","size":13061706,"mTimestamp":1742475789}
+{"date":"2025-03-20T15:16:16.730Z","id":"CZPX1622X017XC78384","name":"planter electrics updated v2 (1)_0.4n_0.15mm_PLA_MINI_6h17m.bgcode","size":2871773,"mTimestamp":1742483724}
+{"date":"2025-03-20T17:18:19.394Z","id":"CZPX1622X017XC78491","name":"10 filper v2_0.4n_0.15mm_PLA_MINIIS_1h0m.bgcode","size":908969,"mTimestamp":1742491093}
+{"date":"2025-03-21T12:57:06.501Z","id":"CZPX1622X017XC78384","name":"ColoumnJoint3_0.4n_0.1mm_PLA_MINI_39m.bgcode","size":885876,"mTimestamp":1742561770}
+{"date":"2025-03-21T13:02:12.069Z","id":"CZPX1622X017XC78384","name":"ColoumnJoint3_0.4n_0.1mm_PLA_MINI_39m.bgcode","size":885876,"mTimestamp":1742561770}
+{"date":"2025-03-21T13:05:28.193Z","id":"CZPX1622X017XC78384","name":"ColoumnJoint3_0.4n_0.1mm_PLA_MINI_39m.bgcode","size":885876,"mTimestamp":1742561770}
+{"date":"2025-03-21T13:37:48.782Z","id":"CZPX4921X017XC67390","name":"Body1_0.4n_0.15mm_PLA_MINIIS_3h2m.bgcode","size":2835495,"mTimestamp":1742564233}
+{"date":"2025-03-21T14:39:45.301Z","id":"CZPX1522X017XC78087","name":"pablo.bgcode","size":642247,"mTimestamp":1742567941}
+{"date":"2025-03-21T15:04:02.277Z","id":"CZPX1622X017XC78456","name":"clip_0.4n_0.2mm_PLA_MINI_20m.bgcode","size":493414,"mTimestamp":1742569400}
+{"date":"2025-03-21T15:05:52.631Z","id":"CZPX1522X017XC78087","name":"Coloumn Joint3_0.4n_0.2mm_PLA_MINI_31m.bgcode","size":885817,"mTimestamp":1742472132}
+{"date":"2025-03-21T15:09:47.402Z","id":"CZPX1622X017XC78491","name":"clip_0.4n_0.2mm_PLA_MINI_20m.bgcode","size":493414,"mTimestamp":1742569400}
+{"date":"2025-03-21T15:22:52.027Z","id":"CZPX4521X017XC64043","name":"clip_0.4n_0.2mm_PLA_MINI_20m.bgcode","size":493414,"mTimestamp":1742569400}
+{"date":"2025-03-21T15:48:27.288Z","id":"CZPX1522X017XC78087","name":"Rocket handle_0.4n_0.2mm_PLA_MINI_1h32m.bgcode","size":1707416,"mTimestamp":1742571784}
+{"date":"2025-03-21T17:08:01.471Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-21T17:15:31.019Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-21T17:17:45.436Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-21T17:25:20.970Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-21T17:33:16.551Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-21T18:06:14.927Z","id":"CZPX1522X017XC78087","name":"ColoumnJoint3_0.4n_0.1mm_PLA_MINI_39m.bgcode","size":885876,"mTimestamp":1742580364}
+{"date":"2025-03-23T16:05:41.495Z","id":"CZPX4921X017XC67390","name":"Body1_0.4n_0.15mm_PLA_MINIIS_3h2m.bgcode","size":2835495,"mTimestamp":1742564233}
+{"date":"2025-03-24T09:33:30.048Z","id":"CZPX4921X017XC67390","name":"five sets.bgcode","size":2449373,"mTimestamp":1741771449}
+{"date":"2025-03-24T11:33:20.333Z","id":"CZPX4921X017XC67390","name":"five sets.bgcode","size":2449373,"mTimestamp":1741771449}
+{"date":"2025-03-24T12:01:53.941Z","id":"CZPX1522X017XC78087","name":"mierdapochapablo.bgcode","size":1536103,"mTimestamp":1742816954}
+{"date":"2025-03-24T12:08:09.147Z","id":"CZPX4521X017XC64043","name":"ColoumnJoint3_0.4n_0.1mm_PLA_MINI_39m.bgcode","size":885876,"mTimestamp":1742818022}
+{"date":"2025-03-24T12:13:38.282Z","id":"CZPX4921X017XC67390","name":"five sets.bgcode","size":2449373,"mTimestamp":1741771449}
+{"date":"2025-03-24T12:43:22.446Z","id":"CZPX1522X017XC78087","name":"mierdapochapablo.bgcode","size":1536103,"mTimestamp":1742816954}
+{"date":"2025-03-24T12:43:32.477Z","id":"CZPX1522X017XC78087","name":"mierdapochapablo.bgcode","size":1536103,"mTimestamp":1742816954}
+{"date":"2025-03-24T12:59:11.699Z","id":"CZPX4521X017XC64043","name":"ColoumnJoint3_0.4n_0.1mm_PLA_MINI_39m.bgcode","size":885876,"mTimestamp":1742818022}
+{"date":"2025-03-24T13:58:46.019Z","id":"CZPX1622X017XC78384","name":"ColoumnJoint3_0.4n_0.15mm_PLA_MINI_1h15m.bgcode","size":1604697,"mTimestamp":1742824704}
+{"date":"2025-03-24T14:03:26.897Z","id":"CZPX4521X017XC64043","name":"pablo.bgcode","size":762113,"mTimestamp":1742824987}
+{"date":"2025-03-24T14:16:43.595Z","id":"CZPX4921X017XC67390","name":"five sets.bgcode","size":2449373,"mTimestamp":1741771449}
+{"date":"2025-03-24T15:00:36.638Z","id":"CZPX4521X017XC64043","name":"pablotest.gcode","size":406957,"mTimestamp":1742828220}
+{"date":"2025-03-24T15:02:18.965Z","id":"CZPX4521X017XC64043","name":"pablotest.gcode","size":406957,"mTimestamp":1742828220}
+{"date":"2025-03-24T15:04:33.424Z","id":"CZPX4521X017XC64043","name":"pablofinal.bgcode","size":165435,"mTimestamp":1742828655}
+{"date":"2025-03-24T15:08:47.318Z","id":"CZPX4521X017XC64043","name":"pablofinal.bgcode","size":165435,"mTimestamp":1742828655}
+{"date":"2025-03-24T15:14:13.474Z","id":"CZPX4521X017XC64043","name":"pablofinal.bgcode","size":165435,"mTimestamp":1742828655}
+{"date":"2025-03-24T15:19:00.460Z","id":"CZPX4521X017XC64043","name":"pablofinal.bgcode","size":165435,"mTimestamp":1742828655}
+{"date":"2025-03-24T15:28:09.324Z","id":"CZPX1622X017XC78491","name":"cubes.gcode","size":91690,"mTimestamp":1742829917}
+{"date":"2025-03-24T15:31:57.089Z","id":"CZPX1622X017XC78491","name":"cubes.gcode","size":91690,"mTimestamp":1742829917}
+{"date":"2025-03-24T15:33:03.303Z","id":"CZPX1622X017XC78456","name":"cubes.gcode","size":91690,"mTimestamp":1742829917}
+{"date":"2025-03-24T15:35:43.844Z","id":"CZPX1622X017XC78384","name":"cubes.gcode","size":91690,"mTimestamp":1742829917}
+{"date":"2025-03-24T15:38:56.491Z","id":"CZPX1622X017XC78384","name":"cubes.gcode","size":91690,"mTimestamp":1742829917}
+{"date":"2025-03-24T15:39:40.662Z","id":"CZPX4521X017XC64043","name":"testpablo1.bgcode","size":443701,"mTimestamp":1742830684}
+{"date":"2025-03-24T15:45:25.846Z","id":"CZPX1622X017XC78384","name":"cubes.gcode","size":91690,"mTimestamp":1742829917}
+{"date":"2025-03-24T16:29:06.810Z","id":"CZPX4921X017XC67390","name":"five sets.bgcode","size":2449373,"mTimestamp":1741771449}
+{"date":"2025-03-24T17:58:37.181Z","id":"CZPX1522X017XC78087","name":"pablogearreal.bgcode","size":644099,"mTimestamp":1742839093}
+{"date":"2025-03-24T19:51:48.366Z","id":"CZPX1522X017XC78087","name":"pabloreal.bgcode","size":659671,"mTimestamp":1742845881}
+{"date":"2025-03-25T09:26:30.114Z","id":"CZPX4921X017XC67390","name":"five sets.bgcode","size":2449373,"mTimestamp":1741771449}
+{"date":"2025-03-25T12:05:27.492Z","id":"CZPX4521X017XC64043","name":"Skin scaffold (honeycomb).gcode","size":50504,"mTimestamp":1742215690}
+{"date":"2025-03-25T12:12:26.918Z","id":"CZPX1522X017XC78087","name":"pabloreal.bgcode","size":659671,"mTimestamp":1742845881}
+{"date":"2025-03-25T12:12:44.987Z","id":"CZPX1522X017XC78087","name":"Skin scaffold (honeycomb).gcode","size":50504,"mTimestamp":1742215690}
+{"date":"2025-03-25T12:18:12.095Z","id":"CZPX1522X017XC78087","name":"Skin scaffold (honeycomb).gcode","size":50504,"mTimestamp":1742215690}
+{"date":"2025-03-25T12:23:11.112Z","id":"CZPX4921X017XC67390","name":"Skin scaffold (honeycomb).gcode","size":50504,"mTimestamp":1742215690}
+{"date":"2025-03-25T12:25:36.009Z","id":"CZPX4921X017XC67390","name":"Skin scaffold (honeycomb).gcode","size":50504,"mTimestamp":1742215690}
+{"date":"2025-03-25T12:42:31.127Z","id":"CZPX1522X017XC78087","name":"Skin scaffold (honeycomb).gcode","size":50504,"mTimestamp":1742215690}
+{"date":"2025-03-25T13:17:06.153Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-25T14:16:10.102Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-25T14:27:20.352Z","id":"CZPX4921X017XC67390","name":"Tensile Test ASTM Piece v1_0.4n_0.35mm_PETG_MINI_2h14m.bgcode","size":405885,"mTimestamp":1742307078}
+{"date":"2025-03-25T14:38:02.479Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-25T14:44:13.744Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-25T14:51:07.160Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-25T14:59:20.808Z","id":"CZPX4521X017XC64043","name":"1minitestpablo.bgcode","size":199160,"mTimestamp":1742914693}
+{"date":"2025-03-25T15:21:05.273Z","id":"CZPX1622X017XC78384","name":"platformbase-print_0.4n_0.2mm_PLA_MINI_5h44m.gcode","size":3469925,"mTimestamp":1742915959}
+{"date":"2025-03-26T09:03:03.154Z","id":"CZPX1622X017XC78384","name":"drill2.gcode","size":6242899,"mTimestamp":1742979316}
+{"date":"2025-03-26T09:05:53.715Z","id":"CZPX4921X017XC67390","name":"drill2.gcode","size":6242899,"mTimestamp":1742979316}
+{"date":"2025-03-26T09:45:21.736Z","id":"CZPX1522X017XC78087","name":"3d_printing.gcode","size":3187348,"mTimestamp":1742982310}
+{"date":"2025-03-26T09:47:02.077Z","id":"CZPX1622X017XC78384","name":"3d_printing.gcode","size":3187348,"mTimestamp":1742982310}
+{"date":"2025-03-26T09:51:08.892Z","id":"CZPX1622X017XC78491","name":"3d_printing.gcode","size":3187348,"mTimestamp":1742982310}
+{"date":"2025-03-26T10:06:01.909Z","id":"CZPX4921X017XC67390","name":"drill2.gcode","size":6242899,"mTimestamp":1742979316}
+{"date":"2025-03-26T10:09:00.505Z","id":"CZPX4921X017XC67390","name":"drill2.gcode","size":6242899,"mTimestamp":1742979316}
+{"date":"2025-03-26T10:10:58.926Z","id":"CZPX4921X017XC67390","name":"drill2.gcode","size":6242899,"mTimestamp":1742979316}
+{"date":"2025-03-26T11:36:00.225Z","id":"CZPX4921X017XC67390","name":"shear large plus dovetail.bgcode","size":8051182,"mTimestamp":1742988908}
+{"date":"2025-03-26T15:05:44.834Z","id":"CZPX1522X017XC78087","name":"UM24.gcode","size":3256773,"mTimestamp":1743001510}
+{"date":"2025-03-26T15:14:56.721Z","id":"CZPX1622X017XC78384","name":"drill1.gcode","size":6207611,"mTimestamp":1743002069}
+{"date":"2025-03-26T15:26:39.115Z","id":"CZPX1622X017XC78384","name":"drill1.gcode","size":6207611,"mTimestamp":1743002069}
+{"date":"2025-03-26T15:28:51.549Z","id":"CZPX1622X017XC78384","name":"drill1.gcode","size":6207611,"mTimestamp":1743002069}
+{"date":"2025-03-26T15:32:10.471Z","id":"CZPX1622X017XC78384","name":"drill1.gcode","size":6207611,"mTimestamp":1743002069}
+{"date":"2025-03-26T15:36:11.027Z","id":"CZPX1622X017XC78384","name":"drill1.gcode","size":6207611,"mTimestamp":1743002069}
+{"date":"2025-03-26T15:37:46.016Z","id":"CZPX1622X017XC78384","name":"drill1.gcode","size":6207611,"mTimestamp":1743002069}
+{"date":"2025-03-26T15:38:31.463Z","id":"CZPX1622X017XC78384","name":"maxwell_bracket.bgcode","size":938892,"mTimestamp":1741266139}
+{"date":"2025-03-26T15:40:05.789Z","id":"CZPX1622X017XC78384","name":"triggermax22222 v1_0.4n_0.2mm_PLA_MINIIS_1h17m.bgcode","size":1745614,"mTimestamp":1741253716}
+{"date":"2025-03-26T15:42:04.198Z","id":"CZPX1522X017XC78087","name":"UM24.gcode","size":3256773,"mTimestamp":1743001510}
+{"date":"2025-03-26T15:51:22.101Z","id":"CZPX1622X017XC78384","name":"drill1.gcode","size":6207611,"mTimestamp":1743002069}
+{"date":"2025-03-26T17:09:42.011Z","id":"CZPX1622X017XC78384","name":"UMS3_2D sheet.gcode","size":153378,"mTimestamp":1743008233}
+{"date":"2025-03-26T17:12:18.528Z","id":"CZPX1622X017XC78491","name":"UMS3_2D sheet.gcode","size":153378,"mTimestamp":1743008233}
+{"date":"2025-03-26T17:16:21.352Z","id":"CZPX1622X017XC78491","name":"UMS3_2D sheet.gcode","size":153378,"mTimestamp":1743008233}
+{"date":"2025-03-27T10:32:12.124Z","id":"CZPX1622X017XC78491","name":"Shimadzu_0.4n_0.2mm_PLA_MINIIS_31m.bgcode","size":203769,"mTimestamp":1743071487}
+{"date":"2025-03-27T10:39:29.590Z","id":"CZPX4921X017XC67390","name":"UM24.gcode","size":3256773,"mTimestamp":1743001510}
+{"date":"2025-03-27T10:48:49.471Z","id":"CZPX1622X017XC78384","name":"testx4.bgcode","size":695152,"mTimestamp":1743071776}
+{"date":"2025-03-27T10:57:31.300Z","id":"CZPX1622X017XC78456","name":"testx4.bgcode","size":695152,"mTimestamp":1743071776}
+{"date":"2025-03-27T10:57:41.327Z","id":"CZPX1522X017XC78087","name":"drillpart1.gcode","size":6165647,"mTimestamp":1743073041}
+{"date":"2025-03-27T11:14:58.846Z","id":"CZPX4521X017XC64043","name":"drill_head.gcode","size":7721311,"mTimestamp":1743073922}
+{"date":"2025-03-27T11:22:24.320Z","id":"CZPX1622X017XC78456","name":"drill_head.gcode","size":7721311,"mTimestamp":1743073922}
+{"date":"2025-03-27T11:23:36.567Z","id":"CZPX1622X017XC78456","name":"drill_head.gcode","size":7721311,"mTimestamp":1743073922}
+{"date":"2025-03-27T12:01:22.222Z","id":"CZPX4521X017XC64043","name":"testx4.bgcode","size":695152,"mTimestamp":1743071776}
+{"date":"2025-03-27T14:18:06.482Z","id":"CZPX4921X017XC67390","name":"babuinoos.bgcode","size":250758,"mTimestamp":1743082745}
+{"date":"2025-03-27T14:24:44.320Z","id":"CZPX4921X017XC67390","name":"babuinoos.bgcode","size":250758,"mTimestamp":1743082745}
+{"date":"2025-03-27T14:31:11.139Z","id":"CZPX4921X017XC67390","name":"coasss.bgcode","size":324040,"mTimestamp":1743085802}
+{"date":"2025-03-27T14:37:36.438Z","id":"CZPX4921X017XC67390","name":"coasss.bgcode","size":324040,"mTimestamp":1743085802}
+{"date":"2025-03-27T14:37:42.457Z","id":"CZPX4921X017XC67390","name":"coasss.bgcode","size":324040,"mTimestamp":1743085802}
+{"date":"2025-03-27T15:16:40.417Z","id":"CZPX4921X017XC67390","name":"0.bgcode","size":46578,"mTimestamp":1743088582}
+{"date":"2025-03-27T15:16:44.415Z","id":"CZPX4921X017XC67390","name":"0.bgcode","size":46578,"mTimestamp":1743088582}
+{"date":"2025-03-27T15:21:59.503Z","id":"CZPX4921X017XC67390","name":"final.bgcode","size":47078,"mTimestamp":1743088884}
+{"date":"2025-03-27T15:36:52.458Z","id":"CZPX4921X017XC67390","name":"klk.bgcode","size":78697,"mTimestamp":1743089785}
+{"date":"2025-03-27T16:34:06.086Z","id":"CZPX4921X017XC67390","name":"JAVI GOAT.bgcode","size":203241,"mTimestamp":1743093243}
+{"date":"2025-03-27T18:54:33.644Z","id":"CZPX4921X017XC67390","name":"platformbase-print_0.4n_0.2mm_PLA_MINI_5h44m.gcode","size":3469925,"mTimestamp":1742915959}
+{"date":"2025-03-27T19:37:09.288Z","id":"CZPX1522X017XC78087","name":"platformbase-print_0.4n_0.2mm_PLA_MINI_5h44m.gcode","size":3469925,"mTimestamp":1742915959}
+{"date":"2025-03-27T19:43:32.582Z","id":"CZPX1522X017XC78087","name":"platformbase-print_0.4n_0.2mm_PLA_MINI_5h44m.gcode","size":3469925,"mTimestamp":1742915959}
+{"date":"2025-03-28T10:06:06.749Z","id":"CZPX1622X017XC78456","name":"drill_head.gcode","size":7721311,"mTimestamp":1743073922}
+{"date":"2025-03-28T10:06:36.166Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-28T10:10:10.884Z","id":"CZPX4921X017XC67390","name":"atletico 0 champions.bgcode","size":79247,"mTimestamp":1743156441}
+{"date":"2025-03-28T10:17:04.316Z","id":"CZPX4921X017XC67390","name":"asadasd.bgcode","size":78698,"mTimestamp":1743157021}
+{"date":"2025-03-28T10:22:39.445Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-28T10:28:30.594Z","id":"CZPX4921X017XC67390","name":"asadasd.bgcode","size":78698,"mTimestamp":1743157021}
+{"date":"2025-03-28T10:30:59.097Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-28T10:34:29.789Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-28T10:38:58.690Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-28T10:39:02.691Z","id":"CZPX1522X017XC78087","name":"cube.gcode","size":282300,"mTimestamp":1743158307}
+{"date":"2025-03-28T10:43:45.693Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-28T10:46:10.195Z","id":"CZPX1522X017XC78087","name":"cubes_set_gcode5.gcode","size":85343,"mTimestamp":1743158725}
+{"date":"2025-03-28T11:06:58.415Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-28T11:09:08.898Z","id":"CZPX1522X017XC78087","name":"large_cube.gcode","size":127324,"mTimestamp":1743160100}
+{"date":"2025-03-28T11:15:52.209Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-28T11:15:54.241Z","id":"CZPX1622X017XC78456","name":"part_3.gcode","size":172581,"mTimestamp":1743160463}
+{"date":"2025-03-28T11:23:07.691Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-28T11:31:17.378Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-28T11:32:25.608Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-28T12:09:15.107Z","id":"CZPX4521X017XC64043","name":"1 dog bone g code.bgcode","size":173350,"mTimestamp":1741090519}
+{"date":"2025-03-28T12:10:53.442Z","id":"CZPX4521X017XC64043","name":"five sets.bgcode","size":2449373,"mTimestamp":1743163816}
+{"date":"2025-03-28T12:16:24.578Z","id":"CZPX1522X017XC78087","name":"part_1.gcode","size":295310,"mTimestamp":1743164173}
+{"date":"2025-03-28T12:53:02.075Z","id":"CZPX4921X017XC67390","name":"part_2.gcode","size":157714,"mTimestamp":1743166264}
+{"date":"2025-03-28T12:59:33.420Z","id":"CZPX4921X017XC67390","name":"part_2.gcode","size":157714,"mTimestamp":1743166264}
+{"date":"2025-03-28T13:05:54.714Z","id":"CZPX1622X017XC78456","name":"part_4.gcode","size":367250,"mTimestamp":1743166984}
+{"date":"2025-03-28T13:06:40.872Z","id":"CZPX4521X017XC64043","name":"five sets.bgcode","size":2449373,"mTimestamp":1743163816}
+{"date":"2025-03-28T13:22:52.128Z","id":"CZPX1522X017XC78087","name":"3d_print.gcode","size":136468,"mTimestamp":1743168139}
+{"date":"2025-03-28T13:37:25.114Z","id":"CZPX4921X017XC67390","name":"part_2.gcode","size":157714,"mTimestamp":1743166264}
+{"date":"2025-03-28T13:38:49.388Z","id":"CZPX4921X017XC67390","name":"part_2.gcode","size":157714,"mTimestamp":1743166264}
+{"date":"2025-03-28T13:44:26.550Z","id":"CZPX4521X017XC64043","name":"five sets.bgcode","size":2449373,"mTimestamp":1743163816}
+{"date":"2025-03-28T13:45:22.731Z","id":"CZPX1522X017XC78087","name":"cubes_set_gcode5.gcode","size":85343,"mTimestamp":1743158725}
+{"date":"2025-03-28T13:54:32.584Z","id":"CZPX1622X017XC78456","name":"3d_print.gcode","size":205740,"mTimestamp":1743170005}
+{"date":"2025-03-28T14:00:55.861Z","id":"CZPX1522X017XC78087","name":"2mm.bgcode","size":160017,"mTimestamp":1743169999}
+{"date":"2025-03-28T14:05:18.742Z","id":"CZPX1522X017XC78087","name":"2mm.bgcode","size":160017,"mTimestamp":1743169999}
+{"date":"2025-03-28T14:10:27.787Z","id":"CZPX1522X017XC78087","name":"2mm.bgcode","size":160869,"mTimestamp":1743171017}
+{"date":"2025-03-28T14:12:06.125Z","id":"CZPX1522X017XC78087","name":"2mm.bgcode","size":160869,"mTimestamp":1743171017}
+{"date":"2025-03-28T14:20:39.926Z","id":"CZPX1522X017XC78087","name":"2mm.bgcode","size":160869,"mTimestamp":1743171017}
+{"date":"2025-03-28T14:28:11.482Z","id":"CZPX1522X017XC78087","name":"1mm.bgcode","size":102760,"mTimestamp":1743171306}
+{"date":"2025-03-28T14:28:35.561Z","id":"CZPX4921X017XC67390","name":"pabloprint1.bgcode","size":1296094,"mTimestamp":1743172080}
+{"date":"2025-03-28T19:13:59.495Z","id":"CZPX4921X017XC67390","name":"pabloprint1.bgcode","size":1296094,"mTimestamp":1743172080}
+{"date":"2025-03-31T07:38:21.509Z","id":"CZPX4921X017XC67390","name":"pabloprint1.bgcode","size":1296094,"mTimestamp":1743172080}
+{"date":"2025-03-31T08:45:30.997Z","id":"CZPX4921X017XC67390","name":"pabloprint1.bgcode","size":1296094,"mTimestamp":1743172080}
+{"date":"2025-03-31T08:45:39.024Z","id":"CZPX4921X017XC67390","name":"pabloprint1.bgcode","size":1296094,"mTimestamp":1743172080}
+{"date":"2025-03-31T08:51:06.691Z","id":"CZPX4921X017XC67390","name":"pabloprint1.bgcode","size":1296094,"mTimestamp":1743172080}
+{"date":"2025-03-31T09:40:44.192Z","id":"CZPX4521X017XC64043","name":"st21825sample.bgcode","size":756868,"mTimestamp":1743417621}
+{"date":"2025-03-31T10:25:19.234Z","id":"CZPX4521X017XC64043","name":"st21825sample.bgcode","size":756868,"mTimestamp":1743417621}
+{"date":"2025-03-31T11:13:06.974Z","id":"CZPX4521X017XC64043","name":"ControlInterface.bgcode","size":998874,"mTimestamp":1743423143}
+{"date":"2025-03-31T12:24:03.138Z","id":"CZPX4921X017XC67390","name":"pablotest1.bgcode","size":200936,"mTimestamp":1743427408}
+{"date":"2025-03-31T12:29:24.135Z","id":"CZPX4521X017XC64043","name":"ControlInterface2.bgcode","size":552619,"mTimestamp":1743427754}
+{"date":"2025-03-31T12:33:32.975Z","id":"CZPX4921X017XC67390","name":"pablotest1.bgcode","size":200936,"mTimestamp":1743427408}
+{"date":"2025-03-31T12:54:55.411Z","id":"CZPX1622X017XC78456","name":"pablotest1.bgcode","size":200936,"mTimestamp":1743427408}
+{"date":"2025-03-31T13:01:16.722Z","id":"CZPX4521X017XC64043","name":"pablotest1.bgcode","size":200936,"mTimestamp":1743427408}
+{"date":"2025-03-31T13:26:39.856Z","id":"CZPX4521X017XC64043","name":"pablotest1.bgcode","size":200936,"mTimestamp":1743427408}
+{"date":"2025-03-31T13:33:13.338Z","id":"CZPX4521X017XC64043","name":"pablotest1.bgcode","size":200936,"mTimestamp":1743427408}
+{"date":"2025-03-31T13:33:17.233Z","id":"CZPX4521X017XC64043","name":"pablotest1.bgcode","size":200936,"mTimestamp":1743427408}
+{"date":"2025-03-31T13:45:15.658Z","id":"CZPX4521X017XC64043","name":"pablotest1.bgcode","size":200936,"mTimestamp":1743427408}
+{"date":"2025-03-31T13:50:50.794Z","id":"CZPX4521X017XC64043","name":"pablotest1.bgcode","size":200936,"mTimestamp":1743427408}
+{"date":"2025-03-31T13:54:29.529Z","id":"CZPX1522X017XC78087","name":"ColoumnJoint5_0.4n_0.15mm_PLA_MINI_20m.bgcode","size":422138,"mTimestamp":1743432794}
+{"date":"2025-03-31T14:21:25.021Z","id":"CZPX4521X017XC64043","name":"ColoumnJoint5_0.4n_0.15mm_PLA_MINI_20m.bgcode","size":422138,"mTimestamp":1743432794}
+{"date":"2025-03-31T14:32:57.356Z","id":"CZPX1622X017XC78384","name":"ColoumnJoint5_0.4n_0.15mm_PLA_MINI_20m.bgcode","size":422138,"mTimestamp":1743435149}
+{"date":"2025-03-31T14:54:55.781Z","id":"CZPX4521X017XC64043","name":"pablofinal.bgcode","size":165435,"mTimestamp":1742828655}
+{"date":"2025-03-31T15:03:45.580Z","id":"CZPX4521X017XC64043","name":"pablofinal.bgcode","size":165435,"mTimestamp":1742828655}
+{"date":"2025-03-31T15:06:40.174Z","id":"CZPX4921X017XC67390","name":"ColoumnJoint5_0.4n_0.15mm_PLA_MINI_20m.bgcode","size":422138,"mTimestamp":1743432794}
+{"date":"2025-03-31T15:10:30.979Z","id":"CZPX4521X017XC64043","name":"pablofinal.bgcode","size":165435,"mTimestamp":1742828655}
+{"date":"2025-03-31T15:20:00.880Z","id":"CZPX4521X017XC64043","name":"pablofinal.bgcode","size":165435,"mTimestamp":1742828655}
+{"date":"2025-03-31T15:46:06.220Z","id":"CZPX4921X017XC67390","name":"ColoumnJoint5_0.4n_0.15mm_PLA_MINI_20m.bgcode","size":422138,"mTimestamp":1743432794}
+{"date":"2025-03-31T15:53:15.694Z","id":"CZPX1522X017XC78087","name":"ColoumnJoint5_0.4n_0.15mm_PLA_MINI_20m.bgcode","size":422138,"mTimestamp":1743439985}
+{"date":"2025-03-31T17:02:21.825Z","id":"CZPX4921X017XC67390","name":"finalinshaAllah.bgcode","size":648431,"mTimestamp":1743444132}
+{"date":"2025-03-31T17:03:03.969Z","id":"CZPX1522X017XC78087","name":"finalinshaAllah.bgcode","size":648431,"mTimestamp":1743444184}
+{"date":"2025-04-01T08:26:19.431Z","id":"CZPX1522X017XC78087","name":"five sets.bgcode","size":2449373,"mTimestamp":1741771449}
+{"date":"2025-04-01T08:26:23.444Z","id":"CZPX1522X017XC78087","name":"five sets.bgcode","size":2449373,"mTimestamp":1741771449}
+{"date":"2025-04-01T11:31:46.939Z","id":"CZPX4921X017XC67390","name":"Shimadzu_0.4n_0.2mm_PLA_MINIIS_24m.bgcode","size":243501,"mTimestamp":1743510663}
+{"date":"2025-04-01T11:42:23.071Z","id":"CZPX1522X017XC78087","name":"shear test.bgcode","size":4145496,"mTimestamp":1743511326}
+{"date":"2025-04-01T12:50:52.943Z","id":"CZPX4921X017XC67390","name":"base-2_0.4n_0.2mm_PLA_MINIIS_3h18m.bgcode","size":1996348,"mTimestamp":1743515420}
+{"date":"2025-04-01T15:02:29.556Z","id":"CZPX1622X017XC78384","name":"ColoumnJoint4_0.4n_0.15mm_PLA_MINI_29m.bgcode","size":623220,"mTimestamp":1743523332}
+{"date":"2025-04-01T15:03:47.837Z","id":"CZPX4521X017XC64043","name":"ColoumnJoint4_0.4n_0.15mm_PLA_MINI_29m.bgcode","size":623220,"mTimestamp":1743523405}
+{"date":"2025-04-01T15:36:48.502Z","id":"CZPX1622X017XC78384","name":"sp22.bgcode","size":1114276,"mTimestamp":1743525385}
+{"date":"2025-04-01T15:43:45.881Z","id":"CZPX4521X017XC64043","name":"sp.bgcode","size":4326948,"mTimestamp":1743524465}
+{"date":"2025-04-01T17:03:47.143Z","id":"CZPX4921X017XC67390","name":"ColoumnJoint6_0.4n_0.15mm_PLA_MINI_28m.bgcode","size":624724,"mTimestamp":1743530606}
+{"date":"2025-04-01T17:48:31.664Z","id":"CZPX1522X017XC78087","name":"ColoumnJoint6_0.4n_0.15mm_PLA_MINI_28m.bgcode","size":621150,"mTimestamp":1743533294}
+{"date":"2025-04-02T08:32:58.751Z","id":"CZPX1522X017XC78087","name":"five sets.bgcode","size":2449373,"mTimestamp":1743163816}
+{"date":"2025-04-02T12:09:38.294Z","id":"CZPX4521X017XC64043","name":"pablohopper.bgcode","size":927519,"mTimestamp":1743599358}
+{"date":"2025-04-02T12:23:06.956Z","id":"CZPX1522X017XC78087","name":"pablohopper.bgcode","size":927519,"mTimestamp":1743599358}
+{"date":"2025-04-02T14:23:30.452Z","id":"CZPX1522X017XC78087","name":"five sets.bgcode","size":2449373,"mTimestamp":1743163816}
+{"date":"2025-04-02T15:06:14.311Z","id":"CZPX4521X017XC64043","name":"rrr.bgcode","size":2888278,"mTimestamp":1743609966}
+{"date":"2025-04-02T15:08:12.649Z","id":"CZPX4921X017XC67390","name":"rrr.bgcode","size":620290,"mTimestamp":1743610088}
+{"date":"2025-04-02T15:11:17.258Z","id":"CZPX1622X017XC78384","name":"rrr.bgcode","size":2888278,"mTimestamp":1743609966}
+{"date":"2025-04-02T15:21:31.261Z","id":"CZPX4521X017XC64043","name":"rrr3eee.bgcode","size":4171714,"mTimestamp":1743610873}
+{"date":"2025-04-02T15:33:59.755Z","id":"CZPX4521X017XC64043","name":"rrr3eee.bgcode","size":4171714,"mTimestamp":1743610873}
+{"date":"2025-04-02T15:54:43.653Z","id":"CZPX4921X017XC67390","name":"ggg.bgcode","size":278473,"mTimestamp":1743612628}
+{"date":"2025-04-03T09:21:57.936Z","id":"CZPX4921X017XC67390","name":"git.bgcode","size":4187878,"mTimestamp":1743675688}
+{"date":"2025-04-03T09:26:00.678Z","id":"CZPX1622X017XC78384","name":"Side Motor Bracket_0.4n_0.2mm_PLA_MINIIS_3h25m.bgcode","size":1910522,"mTimestamp":1743675923}
+{"date":"2025-04-03T09:33:22.051Z","id":"CZPX1522X017XC78087","name":"Centre Motor Bracket_0.4n_0.2mm_PLA_MINIIS_1h30m.bgcode","size":705579,"mTimestamp":1743676389}
+{"date":"2025-04-03T11:14:05.359Z","id":"CZPX1522X017XC78087","name":"Side Motor Bracket_0.4n_0.2mm_PLA_MINIIS_3h15m.bgcode","size":1755726,"mTimestamp":1743682403}
+{"date":"2025-04-03T11:28:48.257Z","id":"CZPX4521X017XC64043","name":"filahoppermounting.bgcode","size":925788,"mTimestamp":1743682748}
+{"date":"2025-04-03T11:35:37.601Z","id":"CZPX4521X017XC64043","name":"filahoppermounting.bgcode","size":925788,"mTimestamp":1743682748}
+{"date":"2025-04-03T11:42:26.922Z","id":"CZPX4521X017XC64043","name":"filahoppermounting.bgcode","size":925788,"mTimestamp":1743682748}
+{"date":"2025-04-03T11:47:07.769Z","id":"CZPX1622X017XC78456","name":"finalbiody3_0.4n_0.15mm_PLA_MINI_52m.bgcode","size":916102,"mTimestamp":1743684424}
+{"date":"2025-04-03T11:57:57.816Z","id":"CZPX4521X017XC64043","name":"finalbiody3_0.4n_0.15mm_PLA_MINI_52m.bgcode","size":916102,"mTimestamp":1743684424}
+{"date":"2025-04-03T12:27:23.720Z","id":"CZPX4521X017XC64043","name":"ColoumnJoint3_0.4n_0.15mm_PLA_MINI_1h15m.bgcode","size":1604697,"mTimestamp":1742824704}
+{"date":"2025-04-03T12:46:25.129Z","id":"CZPX1622X017XC78384","name":"cube_different_infill.gcode","size":516509,"mTimestamp":1743687569}
+{"date":"2025-04-03T14:08:31.016Z","id":"CZPX1622X017XC78456","name":"cube_different_infill.gcode","size":516509,"mTimestamp":1743687569}
+{"date":"2025-04-03T14:10:09.306Z","id":"CZPX4521X017XC64043","name":"cube_different_infill.gcode","size":516509,"mTimestamp":1743687569}
+{"date":"2025-04-03T14:31:33.546Z","id":"CZPX1522X017XC78087","name":"drill_optimized--mass_distribution.gcode","size":8462740,"mTimestamp":1743694202}
+{"date":"2025-04-03T14:33:27.866Z","id":"CZPX4921X017XC67390","name":"cube_different_infill.gcode","size":516509,"mTimestamp":1743687569}
+{"date":"2025-04-03T14:38:24.841Z","id":"CZPX1522X017XC78087","name":"drill_optimized--mass_distribution.gcode","size":8462740,"mTimestamp":1743694202}
+{"date":"2025-04-03T14:41:35.485Z","id":"CZPX1522X017XC78087","name":"drill_optimized--mass_distribution.gcode","size":8462740,"mTimestamp":1743694202}
+{"date":"2025-04-03T16:03:03.185Z","id":"CZPX1622X017XC78456","name":"10new v1_0.4n_0.2mm_PLA_MINIIS_4h6m.bgcode","size":5071295,"mTimestamp":1743699207}
+{"date":"2025-04-03T16:07:08.701Z","id":"CZPX1622X017XC78456","name":"10new v1_0.4n_0.2mm_PLA_MINIIS_4h6m.bgcode","size":5071295,"mTimestamp":1743699207}
+{"date":"2025-04-03T16:10:36.688Z","id":"CZPX4921X017XC67390","name":"10new v1_0.4n_0.2mm_PLA_MINIIS_4h6m.bgcode","size":5071295,"mTimestamp":1743699207}
+{"date":"2025-04-03T16:39:28.264Z","id":"CZPX4921X017XC67390","name":"10new v1_0.4n_0.2mm_PLA_MINIIS_4h6m.bgcode","size":5071295,"mTimestamp":1743699207}
+{"date":"2025-04-03T16:42:36.903Z","id":"CZPX4921X017XC67390","name":"10new v1_0.4n_0.2mm_PLA_MINIIS_3h16m.bgcode","size":3666207,"mTimestamp":1743702072}
+{"date":"2025-04-04T08:14:56.844Z","id":"CZPX4921X017XC67390","name":"10new v1_0.4n_0.2mm_PLA_MINIIS_3h16m.bgcode","size":3666207,"mTimestamp":1743702072}
+{"date":"2025-04-04T10:08:47.756Z","id":"CZPX1522X017XC78087","name":"gfghv.bgcode","size":131299,"mTimestamp":1743764905}
+{"date":"2025-04-04T11:35:01.120Z","id":"CZPX4921X017XC67390","name":"10new v1_0.4n_0.2mm_PLA_MINIIS_3h16m.bgcode","size":3666207,"mTimestamp":1743702072}
+{"date":"2025-04-04T16:02:16.061Z","id":"CZPX4921X017XC67390","name":"10new v1_0.4n_0.2mm_PLA_MINIIS_3h16m.bgcode","size":3666207,"mTimestamp":1743702072}
+{"date":"2025-04-04T16:29:51.162Z","id":"CZPX1522X017XC78087","name":"10new v1_0.4n_0.2mm_PLA_MINIIS_4h44m.bgcode","size":5150487,"mTimestamp":1743787744}
+{"date":"2025-04-07T07:50:41.112Z","id":"CZPX1622X017XC78384","name":"Roller Bracket_0.4n_0.2mm_PLA_MINIIS_4h30m.bgcode","size":1977846,"mTimestamp":1744015744}
+{"date":"2025-04-07T08:19:43.620Z","id":"CZPX4921X017XC67390","name":"Roller Bracket_0.4n_0.2mm_PLA_MINIIS_4h30m.bgcode","size":1977846,"mTimestamp":1744015744}
+{"date":"2025-04-07T12:34:16.859Z","id":"CZPX1522X017XC78087","name":"P6.bgcode","size":4508344,"mTimestamp":1744032801}
+{"date":"2025-04-07T14:00:39.741Z","id":"CZPX4921X017XC67390","name":"P6.bgcode","size":4508344,"mTimestamp":1744032801}
+{"date":"2025-04-07T14:49:33.316Z","id":"CZPX1522X017XC78087","name":"drill_optimized.gcode","size":4293756,"mTimestamp":1744039264}
+{"date":"2025-04-08T10:49:19.184Z","id":"CZPX4921X017XC67390","name":"TeleTube_0.4n_0.2mm_PLA_MINI_27m.bgcode","size":442670,"mTimestamp":1744112829}
+{"date":"2025-04-08T11:20:21.280Z","id":"CZPX4921X017XC67390","name":"Fixings.bgcode","size":350997,"mTimestamp":1744114744}
+{"date":"2025-04-08T11:43:33.696Z","id":"CZPX4921X017XC67390","name":"ColoumnJoint3_0.4n_0.2mm_PLA_MINI_15m.bgcode","size":245536,"mTimestamp":1744116200}
+{"date":"2025-04-08T13:09:48.561Z","id":"CZPX4921X017XC67390","name":"ColoumnJointFinalIA_0.4n_0.2mm_PLA_MINI_1h30m.bgcode","size":1383096,"mTimestamp":1744121369}
+{"date":"2025-04-09T08:17:24.952Z","id":"CZPX4921X017XC67390","name":"drill_optimized.gcode","size":4293756,"mTimestamp":1744039264}
+{"date":"2025-04-09T10:27:57.785Z","id":"CZPX1522X017XC78087","name":"F Test 1_0.25mm_PLA_MINI_44m.gcode","size":2129911,"mTimestamp":1744198046}
+{"date":"2025-04-09T10:40:30.182Z","id":"CZPX1522X017XC78087","name":"F Test 1_0.25mm_PLA_MINI_44m.gcode","size":2129911,"mTimestamp":1744198046}
+{"date":"2025-04-09T10:55:10.832Z","id":"CZPX4921X017XC67390","name":"square.gcode","size":456945,"mTimestamp":1744196054}
+{"date":"2025-04-09T11:43:01.204Z","id":"CZPX1522X017XC78087","name":"smallbending.bgcode","size":83989,"mTimestamp":1744202473}
+{"date":"2025-04-09T11:54:32.106Z","id":"CZPX1522X017XC78087","name":"smallbending.bgcode","size":83989,"mTimestamp":1744202473}
+{"date":"2025-04-09T12:07:58.774Z","id":"CZPX1522X017XC78087","name":"smalldogbone.bgcode","size":179622,"mTimestamp":1744202343}
+{"date":"2025-04-09T12:15:50.251Z","id":"CZPX4921X017XC67390","name":"smalldogbone.bgcode","size":180520,"mTimestamp":1744204456}
+{"date":"2025-04-09T12:23:39.675Z","id":"CZPX4921X017XC67390","name":"smalldogbone.bgcode","size":180520,"mTimestamp":1744204456}
+{"date":"2025-04-09T12:24:13.789Z","id":"CZPX1522X017XC78087","name":"smalldogbone.bgcode","size":179622,"mTimestamp":1744202343}
+{"date":"2025-04-09T12:27:04.326Z","id":"CZPX4921X017XC67390","name":"smalldogbone.bgcode","size":180520,"mTimestamp":1744204456}
+{"date":"2025-04-09T12:31:57.261Z","id":"CZPX1622X017XC78456","name":"Holder Test1_0.25mm_PLA_MINI_2h40m.gcode","size":6266962,"mTimestamp":1744204933}
+{"date":"2025-04-09T12:48:20.383Z","id":"CZPX1522X017XC78087","name":"smalldogbone.bgcode","size":179622,"mTimestamp":1744202343}
+{"date":"2025-04-09T12:52:23.175Z","id":"CZPX4921X017XC67390","name":"smalldogbone.bgcode","size":180520,"mTimestamp":1744204456}
+{"date":"2025-04-09T12:54:27.570Z","id":"CZPX1522X017XC78087","name":"Holder Test1_0.25mm_PLA_MINI_2h40m.gcode","size":6266962,"mTimestamp":1744204933}
+{"date":"2025-04-09T13:50:35.861Z","id":"CZPX4921X017XC67390","name":"P7.bgcode","size":3612119,"mTimestamp":1744202126}
+{"date":"2025-04-09T13:56:24.852Z","id":"CZPX4921X017XC67390","name":"P7.bgcode","size":3612119,"mTimestamp":1744202126}
+{"date":"2025-04-09T14:37:06.540Z","id":"CZPX1522X017XC78087","name":"Holder Test1_0.25mm_PLA_MINI_2h40m.gcode","size":6266962,"mTimestamp":1744204933}
+{"date":"2025-04-09T15:41:09.765Z","id":"CZPX1522X017XC78087","name":"ColoumnJoint3_0.4n_0.2mm_PLA_MINI_22m.bgcode","size":486876,"mTimestamp":1744216868}
+{"date":"2025-04-09T15:47:36.910Z","id":"CZPX4921X017XC67390","name":"smalldogbone.bgcode","size":180520,"mTimestamp":1744204456}
+{"date":"2025-04-09T16:14:38.058Z","id":"CZPX4921X017XC67390","name":"P7.bgcode","size":3612119,"mTimestamp":1744202126}
+{"date":"2025-04-09T16:19:18.933Z","id":"CZPX4921X017XC67390","name":"P7.bgcode","size":3612119,"mTimestamp":1744202126}
+{"date":"2025-04-09T17:37:09.332Z","id":"CZPX1522X017XC78087","name":"pusher.bgcode","size":177107,"mTimestamp":1744223830}
+{"date":"2025-04-10T08:59:39.938Z","id":"CZPX4921X017XC67390","name":"bar.gcode","size":303134,"mTimestamp":1744195999}
+{"date":"2025-04-10T10:27:26.501Z","id":"CZPX4921X017XC67390","name":"bar2.gcode","size":409447,"mTimestamp":1744284431}
+{"date":"2025-04-10T11:31:26.497Z","id":"CZPX4921X017XC67390","name":"square2.gcode","size":563862,"mTimestamp":1744288262}
+{"date":"2025-04-11T09:41:13.843Z","id":"CZPX4921X017XC67390","name":"motor connect (heating) v1_0.4n_0.2mm_PLA_MINI_1h36m.bgcode","size":1368423,"mTimestamp":1744368065}
+{"date":"2025-04-11T11:35:18.287Z","id":"CZPX4921X017XC67390","name":"P8.bgcode","size":2204462,"mTimestamp":1744374905}
+{"date":"2025-04-11T14:43:11.350Z","id":"CZPX4921X017XC67390","name":"five sets.bgcode","size":2449373,"mTimestamp":1743163816}
+{"date":"2025-04-14T14:20:51.748Z","id":"CZPX4921X017XC67390","name":"P9.bgcode","size":2972304,"mTimestamp":1744644016}
+{"date":"2025-04-14T14:38:39.244Z","id":"CZPX4921X017XC67390","name":"P9.bgcode","size":2954920,"mTimestamp":1744645093}
+{"date":"2025-04-14T16:29:04.404Z","id":"CZPX4921X017XC67390","name":"P10.bgcode","size":1436816,"mTimestamp":1744651632}
+{"date":"2025-04-15T10:18:37.127Z","id":"CZPX1622X017XC78456","name":"Gear-8mm-36teeth_0.4n_0.2mm_PLA_MINIIS_45m.bgcode","size":1396892,"mTimestamp":1744715897}
+{"date":"2025-04-15T10:20:23.410Z","id":"CZPX1522X017XC78087","name":"Gear-8mm-36teeth_0.4n_0.2mm_PLA_MINIIS_45m.bgcode","size":1396892,"mTimestamp":1744715897}
+{"date":"2025-04-15T11:44:13.047Z","id":"CZPX4921X017XC67390","name":"P10.1.bgcode","size":834744,"mTimestamp":1744721044}
+{"date":"2025-04-15T12:52:33.674Z","id":"CZPX4921X017XC67390","name":"Study 32 Unrestrictied Alu v1_0.4n_0.2mm_PLA_MINIIS_50m.bgcode","size":2217820,"mTimestamp":1744724760}
+{"date":"2025-04-15T14:00:58.536Z","id":"CZPX4921X017XC67390","name":"Study 32 Scaled.bgcode","size":5343605,"mTimestamp":1744729200}
+{"date":"2025-04-16T10:38:58.060Z","id":"CZPX1522X017XC78087","name":"P11.bgcode","size":985046,"mTimestamp":1744803509}
+{"date":"2025-04-16T18:07:10.208Z","id":"CZPX1522X017XC78087","name":"Motor support v1_0.4n_0.15mm_PLA_MINI_1h13m.bgcode","size":455539,"mTimestamp":1744830380}
+{"date":"2025-04-16T18:49:42.605Z","id":"CZPX1522X017XC78087","name":"P12.bgcode","size":1472714,"mTimestamp":1744832943}
+{"date":"2025-04-23T11:16:10.763Z","id":"CZPX4921X017XC67390","name":"Study 33 Final Design Alu Milling_0.4n_0.2mm_PLA_MINIIS_2h23m.bgcode","size":5414583,"mTimestamp":1745410440}
+{"date":"2025-04-23T11:22:58.102Z","id":"CZPX4921X017XC67390","name":"Study 33 Final Design Alu Milling_0.4n_0.2mm_PLA_MINIIS_2h23m.bgcode","size":5414583,"mTimestamp":1745410440}
+{"date":"2025-04-23T11:24:32.403Z","id":"CZPX1522X017XC78087","name":"Study 33 Final Design Alu Milling_0.4n_0.2mm_PLA_MINIIS_2h23m.bgcode","size":5414583,"mTimestamp":1745410440}
+{"date":"2025-04-23T11:29:33.409Z","id":"CZPX4921X017XC67390","name":"Meow.bgcode","size":414786,"mTimestamp":1745411357}
+{"date":"2025-04-23T12:08:58.735Z","id":"CZPX4921X017XC67390","name":"Meow2.bgcode","size":386174,"mTimestamp":1745413743}
+{"date":"2025-04-23T12:24:17.733Z","id":"CZPX4521X017XC64043","name":"meow2.bgcode","size":374150,"mTimestamp":1745414528}
+{"date":"2025-04-23T13:21:24.450Z","id":"CZPX4921X017XC67390","name":"meowww.bgcode","size":68940,"mTimestamp":1745418078}
+{"date":"2025-04-23T16:23:24.713Z","id":"CZPX4521X017XC64043","name":"Meow3.bgcode","size":447501,"mTimestamp":1745428997}
